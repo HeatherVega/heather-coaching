@@ -10,12 +10,12 @@
   const navHTML = `
     <nav class="site-nav" id="siteNav">
       <div class="nav-inner">
-        <a href="/" class="brand">Heather</a>
+        <a href="/" class="brand">Illuminated Integration</a>
         <div class="nav-links">
           <a href="/">Home</a>
           <a href="/about/">About</a>
           <a href="/services/">Services</a>
-          <a href="/blog/">Blog</a>
+          <a href="/blog/">Writing</a>
           <a href="/contact/" class="nav-cta">Begin</a>
         </div>
       </div>
@@ -25,16 +25,17 @@
   const footerHTML = `
     <footer class="site-footer">
       <div class="footer-inner">
-        <p class="footer-brand">Heather</p>
-        <p class="footer-meta">Integration &amp; Trauma-Informed Coaching</p>
+        <p class="footer-brand">Illuminated Integration</p>
+        <p class="footer-meta">Heather McCan · Trauma-Informed Coach &amp; Psychedelic Integration Specialist</p>
         <p class="footer-links">
           <a href="/">Home</a> ·
           <a href="/about/">About</a> ·
           <a href="/services/">Services</a> ·
-          <a href="/blog/">Blog</a> ·
+          <a href="/blog/">Writing</a> ·
           <a href="/contact/">Contact</a>
         </p>
-        <p class="footer-fine">© ${year} Heather Coaching. All rights reserved.</p>
+        <p class="footer-disclaimer">This work is not a substitute for medical or psychiatric care. If you are in immediate crisis, please contact a licensed provider or call <a href="tel:988">988</a> (Suicide &amp; Crisis Lifeline).</p>
+        <p class="footer-fine">© ${year} Illuminated Integration. All rights reserved.</p>
       </div>
     </footer>
   `;
