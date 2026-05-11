@@ -1,12 +1,12 @@
 {
-  "version": "v260511.04 8:51p",
-  "release": 4,
-  "sha": "8881853",
-  "fullSha": "8881853cb4ae989136360ddcd04776e19751b9c3",
+  "version": "v260511.05 9:05p",
+  "release": 5,
+  "sha": "a21172d",
+  "fullSha": "a21172d83cae02a2f7fb4a5825d5ea5e20e85ccb",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-11T15:51:28-05:00",
-  "commits": [{"sha":"8881853","message":"Shift palette to dawn-breaking hope colors","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-11T16:05:33-05:00",
+  "commits": [{"sha":"a21172d","message":"Stone & Moss palette + photo heroes on every page","author":"Lauren Burandt"}]
 }
