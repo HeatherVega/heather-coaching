@@ -1,12 +1,12 @@
 {
-  "version": "v260511.03 8:47p",
-  "release": 3,
-  "sha": "51ede0f",
-  "fullSha": "51ede0f501a507201c86b403fb66c30d07a67280",
+  "version": "v260511.04 8:51p",
+  "release": 4,
+  "sha": "8881853",
+  "fullSha": "8881853cb4ae989136360ddcd04776e19751b9c3",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-11T15:47:05-05:00",
-  "commits": [{"sha":"51ede0f","message":"Fix broken inner-page rendering on GitHub Pages project site","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-11T15:51:28-05:00",
+  "commits": [{"sha":"8881853","message":"Shift palette to dawn-breaking hope colors","author":"Lauren Burandt"}]
 }
