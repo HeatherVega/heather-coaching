@@ -735,7 +735,6 @@ section.section:nth-of-type(even) {
 /* =============================================
    WHO THIS WORK IS FOR
    ============================================= */
-.section-who { padding-top: 0; }
 .who-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
