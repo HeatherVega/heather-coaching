@@ -1,12 +1,12 @@
 {
-  "version": "v260512.08 5:51p",
-  "release": 8,
-  "sha": "c4e76c4",
-  "fullSha": "c4e76c4639dc50200125a4fd162bec951e5de5f2",
+  "version": "v260512.09 6:04p",
+  "release": 9,
+  "sha": "0429618",
+  "fullSha": "04296184fda3f8591ac2ffa0c966ffd218ecefd1",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-12T12:50:47-05:00",
-  "commits": [{"sha":"c4e76c4","message":"Add mobile hamburger menu + drawer; polish mobile UX","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-12T13:04:08-05:00",
+  "commits": [{"sha":"0429618","message":"Gate Cloudflare Pages deploy on repo variable","author":"Lauren Burandt"}]
 }
