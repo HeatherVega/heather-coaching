@@ -572,6 +572,10 @@ section.section:nth-of-type(even) {
     linear-gradient(180deg, rgba(42, 32, 18, 0.08) 0%, rgba(42, 32, 18, 0.18) 100%),
     url('https://images.pexels.com/photos/35228360/pexels-photo-35228360.jpeg?auto=compress&cs=tinysrgb&w=1600');
 }
+.soft-photo-heather {
+  background-image: url('../assets/heather-headshot.jpg');
+  background-position: center top;
+}
 
 /* =============================================
    OFFERINGS (CARDS)
