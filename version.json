@@ -1,12 +1,12 @@
 {
-  "version": "v260512.01 3:35p",
-  "release": 1,
-  "sha": "361d040",
-  "fullSha": "361d04037b033cbf6da79977132e6028b48a6e6d",
+  "version": "v260512.02 3:45p",
+  "release": 2,
+  "sha": "263b928",
+  "fullSha": "263b928b0ef2ca8c249b76852e0229d7097c85df",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-12T10:34:52-05:00",
-  "commits": [{"sha":"361d040","message":"Fix ghost button outlines missing bottom edge","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-12T10:45:37-05:00",
+  "commits": [{"sha":"263b928","message":"Reorganize \"Is this for you?\" cards to 2x2 grid with icons","author":"Lauren Burandt"}]
 }
