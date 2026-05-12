@@ -1,12 +1,12 @@
 {
-  "version": "v260512.04 3:59p",
-  "release": 4,
-  "sha": "620ad96",
-  "fullSha": "620ad960b54f3ca823cd4a42cd1c57452fab3011",
+  "version": "v260512.05 4:01p",
+  "release": 5,
+  "sha": "4be9411",
+  "fullSha": "4be9411f203590ef1b16e77a110c65d698c87406",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-12T10:59:30-05:00",
-  "commits": [{"sha":"620ad96","message":"Redesign 'Is this for you?' icons — circular badges + refined symbols","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-12T11:00:53-05:00",
+  "commits": [{"sha":"4be9411","message":"Restore standard top padding on 'Is this for you?' section","author":"Lauren Burandt"}]
 }
