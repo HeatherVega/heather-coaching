@@ -7,6 +7,7 @@
   /* Palette — Stone & Moss: editorial, cool, grounded */
   --cream: #ece8db;          /* cool mineral oat — chalk with a green whisper */
   --cream-deep: #d2ccbb;     /* warm stone */
+  --paper: #f6f3ec;          /* warm off-white — for section alternation */
   --charcoal: #1c1f1d;       /* deep slate — cool, anchored */
   --charcoal-soft: #424845;
   --forest: #2e3d34;         /* PRIMARY — deep grounded moss */
@@ -341,6 +342,16 @@ p { margin: 0 0 1em; }
   padding: var(--section-y) var(--gutter);
   max-width: 1280px;
   margin: 0 auto;
+  position: relative;
+}
+
+/* Alternating section bands — every other section gets a paper tint
+   that extends edge-to-edge via box-shadow + clip-path, regardless of
+   the section's max-width. */
+section.section:nth-of-type(even) {
+  background: var(--paper);
+  box-shadow: 0 0 0 100vmax var(--paper);
+  clip-path: inset(0 -100vmax);
 }
 
 .section-header {
