@@ -1,12 +1,12 @@
 {
-  "version": "v260512.12 6:31p",
-  "release": 12,
-  "sha": "2e37288",
-  "fullSha": "2e37288ed5002ebef5b09b8b18986aa8bfd6f381",
+  "version": "v260512.13 6:33p",
+  "release": 13,
+  "sha": "7b8698f",
+  "fullSha": "7b8698fc076db349eb366af360170d4e4c29a226",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-12T13:30:52-05:00",
-  "commits": [{"sha":"2e37288","message":"Add Heather's headshot to the about page portrait slot","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-12T13:32:58-05:00",
+  "commits": [{"sha":"7b8698f","message":"Replace services page hero with sunlit jungle canopy","author":"Lauren Burandt"}]
 }
