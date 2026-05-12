@@ -1,12 +1,12 @@
 {
-  "version": "v260512.11 6:26p",
-  "release": 11,
-  "sha": "764e241",
-  "fullSha": "764e2415033fd08c3eb31d6234b0b99d75cbc64e",
+  "version": "v260512.12 6:31p",
+  "release": 12,
+  "sha": "2e37288",
+  "fullSha": "2e37288ed5002ebef5b09b8b18986aa8bfd6f381",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-12T13:26:10-05:00",
-  "commits": [{"sha":"764e241","message":"Extend inner-page hero photos from 60vh to 80vh","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-12T13:30:52-05:00",
+  "commits": [{"sha":"2e37288","message":"Add Heather's headshot to the about page portrait slot","author":"Lauren Burandt"}]
 }
