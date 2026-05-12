@@ -1,12 +1,12 @@
 {
-  "version": "v260512.06 4:08p",
-  "release": 6,
-  "sha": "ebe6b74",
-  "fullSha": "ebe6b74fdfcd53b7840406ed52270e615ef17ba8",
+  "version": "v260512.07 4:16p",
+  "release": 7,
+  "sha": "455bdff",
+  "fullSha": "455bdff54d7b419b1fe9b12ebb14596796a51c7f",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-12T11:08:42-05:00",
-  "commits": [{"sha":"ebe6b74","message":"Swap 'Carrying' icon to cupped hands","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-12T11:16:06-05:00",
+  "commits": [{"sha":"455bdff","message":"Draw 'Carrying' icon as two outlined hands with fingers","author":"Lauren Burandt"}]
 }
