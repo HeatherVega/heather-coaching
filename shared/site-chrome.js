@@ -2,12 +2,18 @@
  * Site chrome — injects shared nav and footer into every page.
  * Include on each page: <script src="/shared/site-chrome.js" defer></script>
  * Place: <div data-site-nav></div>  and  <div data-site-footer></div>
+ *
+ * Body classes set base path:
+ *   (none)        → root page (./)
+ *   .page-inner   → 1 level deep (../)
+ *   .page-deep    → 2 levels deep (../../)
  */
 
 (function () {
   const year = new Date().getFullYear();
-  // Relative base — works at root or inside a project subpath (GitHub Pages).
-  const base = document.body.classList.contains('page-inner') ? '../' : './';
+  const base = document.body.classList.contains('page-deep') ? '../../'
+             : document.body.classList.contains('page-inner') ? '../'
+             : './';
 
   const navHTML = `
     <nav class="site-nav" id="siteNav">
@@ -19,7 +25,31 @@
         <div class="nav-links">
           <a href="${base}">Home</a>
           <a href="${base}about/">About</a>
-          <a href="${base}services/">Services</a>
+          <div class="nav-dropdown">
+            <a href="${base}services/" class="nav-dropdown-trigger" aria-haspopup="true">
+              Services
+              <svg class="nav-caret" viewBox="0 0 8 5" aria-hidden="true"><path d="M0 0h8L4 5z"/></svg>
+            </a>
+            <div class="nav-dropdown-menu" role="menu">
+              <a href="${base}services/coaching/" role="menuitem">
+                <span class="dropdown-kicker">Coaching</span>
+                Transformational Coaching
+              </a>
+              <a href="${base}services/integration/" role="menuitem">
+                <span class="dropdown-kicker">Integration</span>
+                Psychedelic Preparation &amp; Integration
+              </a>
+              <a href="${base}services/somatic/" role="menuitem">
+                <span class="dropdown-kicker">Embodiment</span>
+                Somatic Healing &amp; Bodywork
+              </a>
+              <a href="${base}services/ceremonial/" role="menuitem">
+                <span class="dropdown-kicker">Sacred Container</span>
+                Private Ceremonial Support
+              </a>
+              <a href="${base}services/" class="dropdown-all" role="menuitem">All offerings</a>
+            </div>
+          </div>
           <a href="${base}blog/">Writing</a>
           <a href="${base}contact/" class="nav-cta">Begin</a>
         </div>
@@ -44,7 +74,16 @@
         <nav class="mobile-drawer-links">
           <a href="${base}">Home</a>
           <a href="${base}about/">About</a>
-          <a href="${base}services/">Services</a>
+          <details class="mobile-drawer-section">
+            <summary>Services</summary>
+            <div class="mobile-drawer-sublinks">
+              <a href="${base}services/coaching/">Transformational Coaching</a>
+              <a href="${base}services/integration/">Psychedelic Preparation &amp; Integration</a>
+              <a href="${base}services/somatic/">Somatic Healing &amp; Bodywork</a>
+              <a href="${base}services/ceremonial/">Private Ceremonial Support</a>
+              <a href="${base}services/" class="mobile-drawer-sublinks-all">All offerings</a>
+            </div>
+          </details>
           <a href="${base}blog/">Writing</a>
           <a href="${base}contact/" class="mobile-drawer-cta">Begin</a>
         </nav>
@@ -79,10 +118,16 @@
 
   // Highlight current page — compare resolved URLs so relative paths work
   const current = location.href.replace(/[?#].*$/, '').replace(/\/$/, '');
-  document.querySelectorAll('.nav-links a, .mobile-drawer-links a').forEach(a => {
+  document.querySelectorAll('.nav-links a, .nav-dropdown-menu a, .mobile-drawer-links > a, .mobile-drawer-sublinks a').forEach(a => {
     const linkUrl = a.href.replace(/[?#].*$/, '').replace(/\/$/, '');
     if (linkUrl === current) a.classList.add('nav-link-active');
   });
+
+  // If a service detail page is active, also keep the parent Services link visually highlighted
+  if (/\/services\/[^/]+\/?$/.test(current)) {
+    document.querySelectorAll('.nav-dropdown-trigger').forEach(a => a.classList.add('nav-link-active'));
+    document.querySelectorAll('.mobile-drawer-section > summary').forEach(s => s.parentElement.setAttribute('open', ''));
+  }
 
   // Nav fades in on scroll
   const nav = document.getElementById('siteNav');
@@ -122,7 +167,7 @@
     drawer.addEventListener('click', (e) => {
       if (e.target.closest('[data-drawer-close]')) closeDrawer();
     });
-    drawer.querySelectorAll('.mobile-drawer-links a').forEach(a => {
+    drawer.querySelectorAll('.mobile-drawer-links a, .mobile-drawer-sublinks a').forEach(a => {
       a.addEventListener('click', closeDrawer);
     });
     document.addEventListener('keydown', (e) => {
