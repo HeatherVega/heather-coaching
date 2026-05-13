@@ -12,7 +12,10 @@
   const navHTML = `
     <nav class="site-nav" id="siteNav">
       <div class="nav-inner">
-        <a href="${base}" class="brand">Illuminated Integration</a>
+        <a href="${base}" class="brand-mark" aria-label="Illuminated Integration — home">
+          <span class="brand-mark-top">Illuminated</span>
+          <span class="brand-mark-script">Integration</span>
+        </a>
         <div class="nav-links">
           <a href="${base}">Home</a>
           <a href="${base}about/">About</a>
@@ -45,7 +48,7 @@
           <a href="${base}blog/">Writing</a>
           <a href="${base}contact/" class="mobile-drawer-cta">Begin</a>
         </nav>
-        <p class="mobile-drawer-footer">Illuminated Integration<br><span>Heather McCan</span></p>
+        <p class="mobile-drawer-footer">Illuminated<br><span>Integration</span></p>
       </div>
     </div>
   `;
@@ -53,8 +56,9 @@
   const footerHTML = `
     <footer class="site-footer">
       <div class="footer-inner">
-        <p class="footer-brand">Illuminated Integration</p>
-        <p class="footer-meta">Heather McCan · Trauma-Informed Coach &amp; Psychedelic Integration Specialist</p>
+        <p class="footer-brand">Illuminated</p>
+        <span class="footer-brand-script">Integration</span>
+        <p class="footer-meta">Heather McCan · Trauma-Informed Coach &amp; Psychedelic Integration</p>
         <p class="footer-links">
           <a href="${base}">Home</a> ·
           <a href="${base}about/">About</a> ·
