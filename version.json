@@ -1,12 +1,12 @@
 {
-  "version": "v260513.05 4:05p",
-  "release": 5,
-  "sha": "6abd2e6",
-  "fullSha": "6abd2e6547492826100eebdc932ff2906ec4e183",
+  "version": "v260513.06 4:26p",
+  "release": 6,
+  "sha": "d1c1cbb",
+  "fullSha": "d1c1cbb7b65f98390e5ff6204b8a396f6d3323ab",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-13T11:05:26-05:00",
-  "commits": [{"sha":"6abd2e6","message":"Tighten home hero lede, drop em dash","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-13T11:26:28-05:00",
+  "commits": [{"sha":"d1c1cbb","message":"Add detail page per offering, with Services dropdown nav","author":"Lauren Burandt"}]
 }
