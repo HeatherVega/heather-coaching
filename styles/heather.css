@@ -385,6 +385,16 @@ p { margin: 0 0 1em; }
   background: rgba(184, 148, 94, 0.12);
 }
 
+/* Active page inside the dropdown — show as a "held" hover, dark gold on cream.
+   Override the transparent-nav .nav-link-active rule that turns text gold-soft. */
+.site-nav .nav-links .nav-dropdown-menu a.nav-link-active,
+.site-nav:not(.scrolled) .nav-links .nav-dropdown-menu a.nav-link-active,
+.site-nav.scrolled .nav-links .nav-dropdown-menu a.nav-link-active {
+  color: var(--gold-deep) !important;
+  background: rgba(184, 148, 94, 0.14);
+}
+.nav-dropdown-menu a.nav-link-active::after { display: none; }
+
 /* Mobile drawer — services sub-section */
 .mobile-drawer-section {
   border-bottom: 1px solid var(--hairline);
