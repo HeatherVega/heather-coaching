@@ -1,12 +1,12 @@
 {
-  "version": "v260513.11 4:56p",
-  "release": 11,
-  "sha": "8caf103",
-  "fullSha": "8caf103a606dd63d528768312a5f3d0e94aa29e2",
+  "version": "v260513.12 5:02p",
+  "release": 12,
+  "sha": "b4b34cc",
+  "fullSha": "b4b34cc95c8339edc7a6ed641b148ac235a4ff47",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-13T11:56:40-05:00",
-  "commits": [{"sha":"8caf103","message":"Remove \"Do you provide psychedelic substances\" FAQ","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-13T12:02:02-05:00",
+  "commits": [{"sha":"b4b34cc","message":"Reduce dropdown translucency and reserve gold for current page","author":"Lauren Burandt"}]
 }
