@@ -1,12 +1,12 @@
 {
-  "version": "v260513.06 4:26p",
-  "release": 6,
-  "sha": "d1c1cbb",
-  "fullSha": "d1c1cbb7b65f98390e5ff6204b8a396f6d3323ab",
+  "version": "v260513.07 4:31p",
+  "release": 7,
+  "sha": "6327488",
+  "fullSha": "63274886a50aadafca81345b9be2c86344d51658",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-13T11:26:28-05:00",
-  "commits": [{"sha":"d1c1cbb","message":"Add detail page per offering, with Services dropdown nav","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-13T11:30:46-05:00",
+  "commits": [{"sha":"6327488","message":"Tighten the home Approach section","author":"Lauren Burandt"}]
 }
