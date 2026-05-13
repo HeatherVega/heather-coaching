@@ -1,12 +1,12 @@
 {
-  "version": "v260513.16 10:00p",
-  "release": 16,
-  "sha": "3c0f923",
-  "fullSha": "3c0f923338f11ecd1c31d58d376bb909a9b22421",
+  "version": "v260513.17 10:18p",
+  "release": 17,
+  "sha": "81788dd",
+  "fullSha": "81788ddf6b9976f7cec63ea637faf8c74dc334ff",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-13T17:00:21-05:00",
-  "commits": [{"sha":"3c0f923","message":"Point \"Book a discovery call\" CTAs to Calendly","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-13T17:18:36-05:00",
+  "commits": [{"sha":"81788dd","message":"Replace favicon and add Flav logo mark to brand wordmark","author":"Lauren Burandt"}]
 }
