@@ -1,12 +1,12 @@
 {
-  "version": "v260513.12 5:02p",
-  "release": 12,
-  "sha": "b4b34cc",
-  "fullSha": "b4b34cc95c8339edc7a6ed641b148ac235a4ff47",
+  "version": "v260513.13 9:24p",
+  "release": 13,
+  "sha": "ba269da",
+  "fullSha": "ba269da79b8d3c8be33e3bbcc4810917d11b5ad4",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-13T12:02:02-05:00",
-  "commits": [{"sha":"b4b34cc","message":"Reduce dropdown translucency and reserve gold for current page","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-13T16:23:40-05:00",
+  "commits": [{"sha":"ba269da","message":"Rework hero copy with three-part promise","author":"Lauren Burandt"}]
 }
