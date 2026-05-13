@@ -1,12 +1,12 @@
 {
-  "version": "v260513.10 4:54p",
-  "release": 10,
-  "sha": "d710332",
-  "fullSha": "d710332a0669e6926917435a4a4392d14b0e6197",
+  "version": "v260513.11 4:56p",
+  "release": 11,
+  "sha": "8caf103",
+  "fullSha": "8caf103a606dd63d528768312a5f3d0e94aa29e2",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-13T11:54:18-05:00",
-  "commits": [{"sha":"d710332","message":"Fix faded active state in Services dropdown","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-13T11:56:40-05:00",
+  "commits": [{"sha":"8caf103","message":"Remove \"Do you provide psychedelic substances\" FAQ","author":"Lauren Burandt"}]
 }
