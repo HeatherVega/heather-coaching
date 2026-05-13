@@ -1,12 +1,12 @@
 {
-  "version": "v260513.15 9:48p",
-  "release": 15,
-  "sha": "0284cfd",
-  "fullSha": "0284cfd56bda1b315f1e7271ca80b48042430500",
+  "version": "v260513.16 10:00p",
+  "release": 16,
+  "sha": "3c0f923",
+  "fullSha": "3c0f923338f11ecd1c31d58d376bb909a9b22421",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-13T16:48:06-05:00",
-  "commits": [{"sha":"0284cfd","message":"Lead with psychedelic integration on About hero, specify LMT credential","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-13T17:00:21-05:00",
+  "commits": [{"sha":"3c0f923","message":"Point \"Book a discovery call\" CTAs to Calendly","author":"Lauren Burandt"}]
 }
