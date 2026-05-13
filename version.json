@@ -1,12 +1,12 @@
 {
-  "version": "v260512.13 6:33p",
-  "release": 13,
-  "sha": "7b8698f",
-  "fullSha": "7b8698fc076db349eb366af360170d4e4c29a226",
+  "version": "v260513.01 3:37p",
+  "release": 1,
+  "sha": "7460c66",
+  "fullSha": "7460c66ac516ca7f0dfb8b946a74c725bc4e56a9",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-12T13:32:58-05:00",
-  "commits": [{"sha":"7b8698f","message":"Replace services page hero with sunlit jungle canopy","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-13T10:36:36-05:00",
+  "commits": [{"sha":"7460c66","message":"Rebrand site to Illuminated Integration visual identity","author":"Lauren Burandt"}]
 }
