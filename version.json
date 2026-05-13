@@ -1,12 +1,12 @@
 {
-  "version": "v260513.17 10:18p",
-  "release": 17,
-  "sha": "81788dd",
-  "fullSha": "81788ddf6b9976f7cec63ea637faf8c74dc334ff",
+  "version": "v260513.18 10:23p",
+  "release": 18,
+  "sha": "97c1f34",
+  "fullSha": "97c1f34589173b81a22f25a72e2da8f16b501c5c",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-13T17:18:36-05:00",
-  "commits": [{"sha":"81788dd","message":"Replace favicon and add Flav logo mark to brand wordmark","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-13T17:23:05-05:00",
+  "commits": [{"sha":"97c1f34","message":"Remove hero sacred geometry, bolden Flav logo mark","author":"Lauren Burandt"}]
 }
