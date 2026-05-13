@@ -1,12 +1,12 @@
 {
-  "version": "v260513.08 4:35p",
-  "release": 8,
-  "sha": "b91f89f",
-  "fullSha": "b91f89fa4c4957a042a765c14fa49f9c16d5458c",
+  "version": "v260513.09 4:45p",
+  "release": 9,
+  "sha": "e3925b8",
+  "fullSha": "e3925b8f4b25c5bdb0bec56af47ee178b17c0dfd",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-13T11:34:55-05:00",
-  "commits": [{"sha":"b91f89f","message":"Refine Services dropdown — translucent plum, gold filigree, fix contrast","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-13T11:44:39-05:00",
+  "commits": [{"sha":"e3925b8","message":"Reset Services dropdown to translucent cream with matched nav font","author":"Lauren Burandt"}]
 }
