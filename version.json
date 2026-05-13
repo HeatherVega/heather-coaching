@@ -1,12 +1,12 @@
 {
-  "version": "v260513.09 4:45p",
-  "release": 9,
-  "sha": "e3925b8",
-  "fullSha": "e3925b8f4b25c5bdb0bec56af47ee178b17c0dfd",
+  "version": "v260513.10 4:54p",
+  "release": 10,
+  "sha": "d710332",
+  "fullSha": "d710332a0669e6926917435a4a4392d14b0e6197",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-13T11:44:39-05:00",
-  "commits": [{"sha":"e3925b8","message":"Reset Services dropdown to translucent cream with matched nav font","author":"Lauren Burandt"}]
+  "pushedAt": "2026-05-13T11:54:18-05:00",
+  "commits": [{"sha":"d710332","message":"Fix faded active state in Services dropdown","author":"Lauren Burandt"}]
 }
