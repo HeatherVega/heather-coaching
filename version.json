@@ -1,12 +1,12 @@
 {
-  "version": "v260513.18 10:23p",
-  "release": 18,
-  "sha": "97c1f34",
-  "fullSha": "97c1f34589173b81a22f25a72e2da8f16b501c5c",
-  "actor": "laurenbur2",
+  "version": "v260527.01 10:42p",
+  "release": 1,
+  "sha": "bb6d21a",
+  "fullSha": "bb6d21a0297d2004c913c06b36f87a254db48cdf",
+  "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
-  "machine": "runnervmeorf1",
-  "pushedAt": "2026-05-13T17:23:05-05:00",
-  "commits": [{"sha":"97c1f34","message":"Remove hero sacred geometry, bolden Flav logo mark","author":"Lauren Burandt"}]
+  "machine": "runnervm3jyl0",
+  "pushedAt": "2026-05-27T17:41:46-05:00",
+  "commits": [{"sha":"bb6d21a","message":"Fix services grid to 2x2 layout","author":"Heather McCan"}]
 }
