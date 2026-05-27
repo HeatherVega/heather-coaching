@@ -1,12 +1,12 @@
 {
-  "version": "v260527.01 10:42p",
-  "release": 1,
-  "sha": "bb6d21a",
-  "fullSha": "bb6d21a0297d2004c913c06b36f87a254db48cdf",
+  "version": "v260527.02 11:07p",
+  "release": 2,
+  "sha": "248749e",
+  "fullSha": "248749e1f3b667125ab3bcf38c87da44ff68c136",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
-  "machine": "runnervm3jyl0",
-  "pushedAt": "2026-05-27T17:41:46-05:00",
-  "commits": [{"sha":"bb6d21a","message":"Fix services grid to 2x2 layout","author":"Heather McCan"}]
+  "machine": "runnervmg397c",
+  "pushedAt": "2026-05-27T18:06:47-05:00",
+  "commits": [{"sha":"248749e","message":"Update homepage testimonial to attribute Lauren, Austin TX","author":"Heather McCan"}]
 }
