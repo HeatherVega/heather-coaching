@@ -88,7 +88,7 @@
       <div class="footer-inner">
         <p class="footer-brand">Illuminated</p>
         <span class="footer-brand-script">Integration</span>
-        <p class="footer-meta">Heather McCan · Trauma-Informed Coach &amp; Psychedelic Integration</p>
+        <p class="footer-meta">Heather McCan · Trauma-Informed Transformational Coach · Psychedelic Integration Specialist</p>
         <p class="footer-links">
           <a href="${base}">Home</a> ·
           <a href="${base}about/">About</a> ·
