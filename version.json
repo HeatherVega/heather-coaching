@@ -1,12 +1,12 @@
 {
-  "version": "v260602.02 1:59a",
-  "release": 2,
-  "sha": "4de6dc4",
-  "fullSha": "4de6dc48e888b7efd1d7275e9d002a6c884ff525",
+  "version": "v260602.03 2:02a",
+  "release": 3,
+  "sha": "727057c",
+  "fullSha": "727057ccaafd0f21cf39ce9589463832016c21e2",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-01T20:59:27-05:00",
-  "commits": [{"sha":"4de6dc4","message":"Add Heather's photos, update hero lede, rewrite approach section","author":"Heather McCan"}]
+  "pushedAt": "2026-06-01T21:02:15-05:00",
+  "commits": [{"sha":"727057c","message":"Restore forest background to hero","author":"Heather McCan"}]
 }
