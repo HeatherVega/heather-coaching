@@ -1,12 +1,12 @@
 {
-  "version": "v260602.17 5:35a",
-  "release": 17,
-  "sha": "2ccce45",
-  "fullSha": "2ccce452715ef0f72d5084fb9903e0cbb08750b5",
+  "version": "v260602.18 5:37a",
+  "release": 18,
+  "sha": "fa4948c",
+  "fullSha": "fa4948c9ca6e6f228bdec46a4eb275df857741f3",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-02T00:35:34-05:00",
-  "commits": [{"sha":"2ccce45","message":"Remove disclaimer from ceremonial page","author":"Heather McCan"}]
+  "pushedAt": "2026-06-02T00:36:57-05:00",
+  "commits": [{"sha":"fa4948c","message":"Rewrite somatic page with warmth, new hero lede, dissociation added","author":"Heather McCan"}]
 }
