@@ -1,12 +1,12 @@
 {
-  "version": "v260602.01 1:11a",
-  "release": 1,
-  "sha": "bf3953e",
-  "fullSha": "bf3953ec1c6d38912b37440a5c2d3aeea3403ccb",
+  "version": "v260602.02 1:59a",
+  "release": 2,
+  "sha": "4de6dc4",
+  "fullSha": "4de6dc48e888b7efd1d7275e9d002a6c884ff525",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-01T20:11:04-05:00",
-  "commits": [{"sha":"bf3953e","message":"Hero: add Heather's photo, title line with full credentials, improved lede","author":"Heather McCan"}]
+  "pushedAt": "2026-06-01T20:59:27-05:00",
+  "commits": [{"sha":"4de6dc4","message":"Add Heather's photos, update hero lede, rewrite approach section","author":"Heather McCan"}]
 }
