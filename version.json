@@ -1,12 +1,12 @@
 {
-  "version": "v260602.08 2:50a",
-  "release": 8,
-  "sha": "153ecfc",
-  "fullSha": "153ecfce0b7da5c6e781ae34d31ac6f4fdf16eaa",
+  "version": "v260602.09 2:54a",
+  "release": 9,
+  "sha": "b50e94f",
+  "fullSha": "b50e94f6fee3ec1e190b6fbda27fe5153b729266",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-01T21:50:32-05:00",
-  "commits": [{"sha":"153ecfc","message":"Rewrite about page with elite-level personal story and positioning","author":"Heather McCan"}]
+  "pushedAt": "2026-06-01T21:53:54-05:00",
+  "commits": [{"sha":"b50e94f","message":"Soften about page personal story, keep powerful opening","author":"Heather McCan"}]
 }
