@@ -1,12 +1,12 @@
 {
-  "version": "v260602.13 3:38a",
-  "release": 13,
-  "sha": "3dbb485",
-  "fullSha": "3dbb48568e8de6a23fd427da763fbe7e53dd4a20",
+  "version": "v260602.14 3:40a",
+  "release": 14,
+  "sha": "cc34ba2",
+  "fullSha": "cc34ba2b943520b30a8a71ea3b1d9807eeec454a",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-01T22:37:54-05:00",
-  "commits": [{"sha":"3dbb485","message":"Final homepage: approach rewrite, updated testimonial","author":"Heather McCan"}]
+  "pushedAt": "2026-06-01T22:40:11-05:00",
+  "commits": [{"sha":"cc34ba2","message":"Fix: wound to wounds","author":"Heather McCan"}]
 }
