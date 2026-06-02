@@ -1,12 +1,12 @@
 {
-  "version": "v260602.10 2:56a",
-  "release": 10,
-  "sha": "53f54b0",
-  "fullSha": "53f54b0edc433e87cd1d2ae85ff480c995cda56e",
+  "version": "v260602.11 3:10a",
+  "release": 11,
+  "sha": "01fd5bf",
+  "fullSha": "01fd5bfa3b59f1c689a610c51bcc543ad8626961",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-01T21:56:08-05:00",
-  "commits": [{"sha":"53f54b0","message":"Rewrite about page bio following top practitioners formula","author":"Heather McCan"}]
+  "pushedAt": "2026-06-01T22:10:03-05:00",
+  "commits": [{"sha":"01fd5bf","message":"Final about page bio with full personal story","author":"Heather McCan"}]
 }
