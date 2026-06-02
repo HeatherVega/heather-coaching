@@ -1,12 +1,12 @@
 {
-  "version": "v260602.03 2:02a",
-  "release": 3,
-  "sha": "727057c",
-  "fullSha": "727057ccaafd0f21cf39ce9589463832016c21e2",
+  "version": "v260602.04 2:13a",
+  "release": 4,
+  "sha": "1e85907",
+  "fullSha": "1e859072975924256c63417a4ec55389eb7ac6a7",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-01T21:02:15-05:00",
-  "commits": [{"sha":"727057c","message":"Restore forest background to hero","author":"Heather McCan"}]
+  "pushedAt": "2026-06-01T21:13:32-05:00",
+  "commits": [{"sha":"1e85907","message":"Make hero title line bolder and more readable","author":"Heather McCan"}]
 }
