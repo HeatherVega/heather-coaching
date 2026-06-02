@@ -1,12 +1,12 @@
 {
-  "version": "v260602.15 5:08a",
-  "release": 15,
-  "sha": "7bd10a3",
-  "fullSha": "7bd10a3d9c6ed141c1257652983399aa7491b58b",
+  "version": "v260602.16 5:31a",
+  "release": 16,
+  "sha": "09bdb53",
+  "fullSha": "09bdb537e0961986e44be62aad245e37b9adc914",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-02T00:08:03-05:00",
-  "commits": [{"sha":"7bd10a3","message":"Complete rewrite of coaching page with elite copy and warmth","author":"Heather McCan"}]
+  "pushedAt": "2026-06-02T00:30:53-05:00",
+  "commits": [{"sha":"09bdb53","message":"Rewrite integration page with warmth, new hero lede, garden photo","author":"Heather McCan"}]
 }
