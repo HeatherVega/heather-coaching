@@ -776,15 +776,15 @@ p { margin: 0 0 1em; }
 /* Hero tagline — "HEALING · ILLUMINATION · OF THE SOUL" */
 .hero-title {
   font-family: var(--tracked);
-  font-size: 0.7rem;
-  font-weight: 400;
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.18em;
   text-transform: uppercase;
   color: var(--gold-soft);
-  opacity: 0.85;
+  opacity: 1;
   margin: 0.75rem 0 1.5rem;
   line-height: 1.8;
-  text-shadow: 0 1px 16px rgba(36, 15, 43, 0.55);
+  text-shadow: 0 1px 12px rgba(0, 0, 0, 0.8);
 }
 
 .hero-tagline {
