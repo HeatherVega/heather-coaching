@@ -1,12 +1,12 @@
 {
-  "version": "v260602.05 2:26a",
-  "release": 5,
-  "sha": "027ed1a",
-  "fullSha": "027ed1a1c409f76caa4f9692f068a8416c58fcf0",
+  "version": "v260602.06 2:36a",
+  "release": 6,
+  "sha": "7e5f131",
+  "fullSha": "7e5f13197b953d6deac1ed310c7afae2e7d133c5",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-01T21:25:49-05:00",
-  "commits": [{"sha":"027ed1a","message":"Rewrite about page, remove em dashes across all pages, update credentials","author":"Heather McCan"}]
+  "pushedAt": "2026-06-01T21:36:03-05:00",
+  "commits": [{"sha":"7e5f131","message":"Rewrite about bio to lead with trauma/integration credentials, fix panic to overwhelm","author":"Heather McCan"}]
 }
