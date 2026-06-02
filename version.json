@@ -1,12 +1,12 @@
 {
-  "version": "v260602.04 2:13a",
-  "release": 4,
-  "sha": "1e85907",
-  "fullSha": "1e859072975924256c63417a4ec55389eb7ac6a7",
+  "version": "v260602.05 2:26a",
+  "release": 5,
+  "sha": "027ed1a",
+  "fullSha": "027ed1a1c409f76caa4f9692f068a8416c58fcf0",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-01T21:13:32-05:00",
-  "commits": [{"sha":"1e85907","message":"Make hero title line bolder and more readable","author":"Heather McCan"}]
+  "pushedAt": "2026-06-01T21:25:49-05:00",
+  "commits": [{"sha":"027ed1a","message":"Rewrite about page, remove em dashes across all pages, update credentials","author":"Heather McCan"}]
 }
