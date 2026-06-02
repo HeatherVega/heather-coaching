@@ -1,12 +1,12 @@
 {
-  "version": "v260602.26 1:56p",
-  "release": 26,
-  "sha": "5f58377",
-  "fullSha": "5f583771e70806aeae97758732c3ed7444020c90",
+  "version": "v260602.27 2:11p",
+  "release": 27,
+  "sha": "3cbd339",
+  "fullSha": "3cbd3398cbd5f059830ea3caae71e22bc23412da",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-02T08:55:54-05:00",
-  "commits": [{"sha":"5f58377","message":"Fix footer title, update services overview, fix contact page question","author":"Heather McCan"}]
+  "pushedAt": "2026-06-02T09:11:14-05:00",
+  "commits": [{"sha":"3cbd339","message":"Add icon preview page","author":"Heather McCan"}]
 }
