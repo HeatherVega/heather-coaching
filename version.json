@@ -1,12 +1,12 @@
 {
-  "version": "v260602.12 3:13a",
-  "release": 12,
-  "sha": "ed162b9",
-  "fullSha": "ed162b9c04d2197f4d1c6f6270eb81920ff31fac",
+  "version": "v260602.13 3:38a",
+  "release": 13,
+  "sha": "3dbb485",
+  "fullSha": "3dbb48568e8de6a23fd427da763fbe7e53dd4a20",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-01T22:13:24-05:00",
-  "commits": [{"sha":"ed162b9","message":"Rewrite homepage: approach, who I work with, and CTA sections","author":"Heather McCan"}]
+  "pushedAt": "2026-06-01T22:37:54-05:00",
+  "commits": [{"sha":"3dbb485","message":"Final homepage: approach rewrite, updated testimonial","author":"Heather McCan"}]
 }
