@@ -1,12 +1,12 @@
 {
-  "version": "v260602.28 2:12p",
-  "release": 28,
-  "sha": "246f809",
-  "fullSha": "246f809f1921ccf53676c4f6bd06869769eefb64",
+  "version": "v260602.29 5:22p",
+  "release": 29,
+  "sha": "f9d78fe",
+  "fullSha": "f9d78fefe1f6be9eaa482ada109e4cd8830d0c45",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-02T09:12:30-05:00",
-  "commits": [{"sha":"246f809","message":"New homepage icons: tiger, serpent, eye, butterfly","author":"Heather McCan"}]
+  "pushedAt": "2026-06-02T12:22:03-05:00",
+  "commits": [{"sha":"f9d78fe","message":"SEO-optimized blog section with Pexels photos and high-intent post titles","author":"Heather McCan"}]
 }
