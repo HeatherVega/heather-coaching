@@ -1,12 +1,12 @@
 {
-  "version": "v260602.09 2:54a",
-  "release": 9,
-  "sha": "b50e94f",
-  "fullSha": "b50e94f6fee3ec1e190b6fbda27fe5153b729266",
+  "version": "v260602.10 2:56a",
+  "release": 10,
+  "sha": "53f54b0",
+  "fullSha": "53f54b0edc433e87cd1d2ae85ff480c995cda56e",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-01T21:53:54-05:00",
-  "commits": [{"sha":"b50e94f","message":"Soften about page personal story, keep powerful opening","author":"Heather McCan"}]
+  "pushedAt": "2026-06-01T21:56:08-05:00",
+  "commits": [{"sha":"53f54b0","message":"Rewrite about page bio following top practitioners formula","author":"Heather McCan"}]
 }
