@@ -1,12 +1,12 @@
 {
-  "version": "v260602.21 5:50a",
-  "release": 21,
-  "sha": "03236c3",
-  "fullSha": "03236c37a9ac0d099ac4c88b58b533e3d0c42be5",
+  "version": "v260602.22 6:00a",
+  "release": 22,
+  "sha": "c9e57f6",
+  "fullSha": "c9e57f6ad6415d5b9c9d268eb0e6fa986d1588b7",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-02T00:50:01-05:00",
-  "commits": [{"sha":"03236c3","message":"Update ceremonial who this is for section with expanded states language","author":"Heather McCan"}]
+  "pushedAt": "2026-06-02T01:00:10-05:00",
+  "commits": [{"sha":"c9e57f6","message":"Homepage: warmth additions, fix Sacred Container, update who I work with","author":"Heather McCan"}]
 }
