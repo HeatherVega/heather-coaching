@@ -1,12 +1,12 @@
 {
-  "version": "v260602.19 5:42a",
-  "release": 19,
-  "sha": "e1f979e",
-  "fullSha": "e1f979ec4b1b634e3790e49fda65966dc516072e",
+  "version": "v260602.20 5:43a",
+  "release": 20,
+  "sha": "9f9d1bc",
+  "fullSha": "9f9d1bcf1c9f5a266880caa2236a4bff12f43443",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-02T00:41:55-05:00",
-  "commits": [{"sha":"e1f979e","message":"Replace headshot with nature image on somatic page","author":"Heather McCan"}]
+  "pushedAt": "2026-06-02T00:43:02-05:00",
+  "commits": [{"sha":"9f9d1bc","message":"Complete rewrite of ceremonial page with warmth, plant medicine framing, nature image","author":"Heather McCan"}]
 }
