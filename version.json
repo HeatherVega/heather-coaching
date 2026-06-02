@@ -1,12 +1,12 @@
 {
-  "version": "v260602.16 5:31a",
-  "release": 16,
-  "sha": "09bdb53",
-  "fullSha": "09bdb537e0961986e44be62aad245e37b9adc914",
+  "version": "v260602.17 5:35a",
+  "release": 17,
+  "sha": "2ccce45",
+  "fullSha": "2ccce452715ef0f72d5084fb9903e0cbb08750b5",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-02T00:30:53-05:00",
-  "commits": [{"sha":"09bdb53","message":"Rewrite integration page with warmth, new hero lede, garden photo","author":"Heather McCan"}]
+  "pushedAt": "2026-06-02T00:35:34-05:00",
+  "commits": [{"sha":"2ccce45","message":"Remove disclaimer from ceremonial page","author":"Heather McCan"}]
 }
