@@ -1,12 +1,12 @@
 {
-  "version": "v260602.24 6:31a",
-  "release": 24,
-  "sha": "f23a571",
-  "fullSha": "f23a5713c0ee770dadd360dd0598b0d9442d9014",
+  "version": "v260602.25 1:51p",
+  "release": 25,
+  "sha": "21567ae",
+  "fullSha": "21567ae45c079e07f1a25f5dbbfce6e20a1f1529",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-02T01:30:45-05:00",
-  "commits": [{"sha":"f23a571","message":"Add ceremony, amazon, outdoors photos across ceremonial and contact pages","author":"Heather McCan"}]
+  "pushedAt": "2026-06-02T08:51:16-05:00",
+  "commits": [{"sha":"21567ae","message":"Update coaching who this is for final item heading","author":"Heather McCan"}]
 }
