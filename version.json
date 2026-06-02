@@ -1,12 +1,12 @@
 {
-  "version": "v260527.03 11:10p",
-  "release": 3,
-  "sha": "ab083be",
-  "fullSha": "ab083be709843b2151c17a1b0092940a739c57ca",
+  "version": "v260602.01 1:11a",
+  "release": 1,
+  "sha": "bf3953e",
+  "fullSha": "bf3953ec1c6d38912b37440a5c2d3aeea3403ccb",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-05-27T18:10:13-05:00",
-  "commits": [{"sha":"ab083be","message":"Update Lauren's testimonial with her own words about integration coaching","author":"Heather McCan"}]
+  "pushedAt": "2026-06-01T20:11:04-05:00",
+  "commits": [{"sha":"bf3953e","message":"Hero: add Heather's photo, title line with full credentials, improved lede","author":"Heather McCan"}]
 }
