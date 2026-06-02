@@ -1,12 +1,12 @@
 {
-  "version": "v260602.27 2:11p",
-  "release": 27,
-  "sha": "3cbd339",
-  "fullSha": "3cbd3398cbd5f059830ea3caae71e22bc23412da",
+  "version": "v260602.28 2:12p",
+  "release": 28,
+  "sha": "246f809",
+  "fullSha": "246f809f1921ccf53676c4f6bd06869769eefb64",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-02T09:11:14-05:00",
-  "commits": [{"sha":"3cbd339","message":"Add icon preview page","author":"Heather McCan"}]
+  "pushedAt": "2026-06-02T09:12:30-05:00",
+  "commits": [{"sha":"246f809","message":"New homepage icons: tiger, serpent, eye, butterfly","author":"Heather McCan"}]
 }
