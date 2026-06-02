@@ -1,12 +1,12 @@
 {
-  "version": "v260602.25 1:51p",
-  "release": 25,
-  "sha": "21567ae",
-  "fullSha": "21567ae45c079e07f1a25f5dbbfce6e20a1f1529",
+  "version": "v260602.26 1:56p",
+  "release": 26,
+  "sha": "5f58377",
+  "fullSha": "5f583771e70806aeae97758732c3ed7444020c90",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-02T08:51:16-05:00",
-  "commits": [{"sha":"21567ae","message":"Update coaching who this is for final item heading","author":"Heather McCan"}]
+  "pushedAt": "2026-06-02T08:55:54-05:00",
+  "commits": [{"sha":"5f58377","message":"Fix footer title, update services overview, fix contact page question","author":"Heather McCan"}]
 }
