@@ -1,12 +1,12 @@
 {
-  "version": "v260602.06 2:36a",
-  "release": 6,
-  "sha": "7e5f131",
-  "fullSha": "7e5f13197b953d6deac1ed310c7afae2e7d133c5",
+  "version": "v260602.07 2:36a",
+  "release": 7,
+  "sha": "84d0bda",
+  "fullSha": "84d0bdabb5b031e8df30f493680b6df33064fff3",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-01T21:36:03-05:00",
-  "commits": [{"sha":"7e5f131","message":"Rewrite about bio to lead with trauma/integration credentials, fix panic to overwhelm","author":"Heather McCan"}]
+  "pushedAt": "2026-06-01T21:36:19-05:00",
+  "commits": [{"sha":"84d0bda","message":"Fix page title dash","author":"Heather McCan"}]
 }
