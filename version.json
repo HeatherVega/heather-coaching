@@ -1,12 +1,12 @@
 {
-  "version": "v260602.18 5:37a",
-  "release": 18,
-  "sha": "fa4948c",
-  "fullSha": "fa4948c9ca6e6f228bdec46a4eb275df857741f3",
+  "version": "v260602.19 5:42a",
+  "release": 19,
+  "sha": "e1f979e",
+  "fullSha": "e1f979ec4b1b634e3790e49fda65966dc516072e",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-02T00:36:57-05:00",
-  "commits": [{"sha":"fa4948c","message":"Rewrite somatic page with warmth, new hero lede, dissociation added","author":"Heather McCan"}]
+  "pushedAt": "2026-06-02T00:41:55-05:00",
+  "commits": [{"sha":"e1f979e","message":"Replace headshot with nature image on somatic page","author":"Heather McCan"}]
 }
