@@ -1,12 +1,12 @@
 {
-  "version": "v260602.07 2:36a",
-  "release": 7,
-  "sha": "84d0bda",
-  "fullSha": "84d0bdabb5b031e8df30f493680b6df33064fff3",
+  "version": "v260602.08 2:50a",
+  "release": 8,
+  "sha": "153ecfc",
+  "fullSha": "153ecfce0b7da5c6e781ae34d31ac6f4fdf16eaa",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-01T21:36:19-05:00",
-  "commits": [{"sha":"84d0bda","message":"Fix page title dash","author":"Heather McCan"}]
+  "pushedAt": "2026-06-01T21:50:32-05:00",
+  "commits": [{"sha":"153ecfc","message":"Rewrite about page with elite-level personal story and positioning","author":"Heather McCan"}]
 }
