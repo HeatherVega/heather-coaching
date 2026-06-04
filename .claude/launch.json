@@ -3,8 +3,8 @@
   "configurations": [
     {
       "name": "heather-site",
-      "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "/Users/laurenburandt/heather-coaching"],
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "-l", "8765", "/Users/heatherm/Documents/Website-coding/heather-coaching"],
       "port": 8765
     }
   ]
