@@ -1,12 +1,12 @@
 {
-  "version": "v260604.01 3:59a",
-  "release": 1,
-  "sha": "4ca99fc",
-  "fullSha": "4ca99fce66adbb3a245ed47380dea832a1d207e6",
+  "version": "v260604.02 4:07a",
+  "release": 2,
+  "sha": "4f26c66",
+  "fullSha": "4f26c6647197177a035c7c9eb2380c6c79d1f02c",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-03T22:59:35-05:00",
-  "commits": [{"sha":"4ca99fc","message":"Add clickable essay pages with real content for all 4 blog posts","author":"Heather McCan"}]
+  "pushedAt": "2026-06-03T23:07:27-05:00",
+  "commits": [{"sha":"4f26c66","message":"Write full essays for all 4 blog posts","author":"Heather McCan"}]
 }
