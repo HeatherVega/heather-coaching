@@ -1,12 +1,12 @@
 {
-  "version": "v260604.08 9:48p",
-  "release": 8,
-  "sha": "031616e",
-  "fullSha": "031616e2b77811c0ea407c457e74b9d32012cf89",
+  "version": "v260604.09 9:53p",
+  "release": 9,
+  "sha": "ea754e4",
+  "fullSha": "ea754e413e45d36786e72f47220b41bf961af3e8",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-04T16:48:32-05:00",
-  "commits": [{"sha":"031616e","message":"Update about page bio and homepage who I work with cards","author":"Heather McCan"}]
+  "pushedAt": "2026-06-04T16:53:35-05:00",
+  "commits": [{"sha":"ea754e4","message":"Add process addictions, grief, loss, death, attachment wounding to who I work with","author":"Heather McCan"}]
 }
