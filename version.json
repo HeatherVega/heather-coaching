@@ -1,12 +1,12 @@
 {
-  "version": "v260602.29 5:22p",
-  "release": 29,
-  "sha": "f9d78fe",
-  "fullSha": "f9d78fefe1f6be9eaa482ada109e4cd8830d0c45",
+  "version": "v260604.01 3:59a",
+  "release": 1,
+  "sha": "4ca99fc",
+  "fullSha": "4ca99fce66adbb3a245ed47380dea832a1d207e6",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-02T12:22:03-05:00",
-  "commits": [{"sha":"f9d78fe","message":"SEO-optimized blog section with Pexels photos and high-intent post titles","author":"Heather McCan"}]
+  "pushedAt": "2026-06-03T22:59:35-05:00",
+  "commits": [{"sha":"4ca99fc","message":"Add clickable essay pages with real content for all 4 blog posts","author":"Heather McCan"}]
 }
