@@ -1,12 +1,12 @@
 {
-  "version": "v260604.09 9:53p",
-  "release": 9,
-  "sha": "ea754e4",
-  "fullSha": "ea754e413e45d36786e72f47220b41bf961af3e8",
+  "version": "v260604.10 9:55p",
+  "release": 10,
+  "sha": "221c80b",
+  "fullSha": "221c80bf11475d3a7632b9a7f4b3aced29a00e59",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-04T16:53:35-05:00",
-  "commits": [{"sha":"ea754e4","message":"Add process addictions, grief, loss, death, attachment wounding to who I work with","author":"Heather McCan"}]
+  "pushedAt": "2026-06-04T16:55:21-05:00",
+  "commits": [{"sha":"221c80b","message":"Add specific process addictions to who I work with card","author":"Heather McCan"}]
 }
