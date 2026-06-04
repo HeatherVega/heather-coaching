@@ -29,6 +29,10 @@
     </div>
     <div class="contact-grid">
       <form class="contact-form" id="contactForm" onsubmit="return submitContact(event)">
+        <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_KEY">
+        <input type="hidden" name="subject" value="New message from Illuminated Integration">
+        <input type="hidden" name="from_name" value="Illuminated Integration Contact Form">
+        <input type="checkbox" name="botcheck" style="display:none">
         <label>
           <span>Your name</span>
           <input type="text" name="name" required>
@@ -45,8 +49,14 @@
           <input type="checkbox" name="newsletter">
           <span>Send me occasional field notes by email.</span>
         </label>
-        <button type="submit" class="btn btn-primary">Send note</button>
+        <button type="submit" class="btn btn-primary" id="submitBtn">Send note</button>
         <p class="form-note">Or reach out directly: <a href="mailto:hello@illuminatedintegration.com">hello@illuminatedintegration.com</a></p>
+        <div id="formSuccess" style="display:none;background:var(--cream-mid,#f2ede6);border-radius:10px;padding:1.5rem;margin-top:1rem;text-align:center;">
+          <p style="margin:0;color:var(--plum-deep);font-family:var(--serif);font-size:1.1rem;">Your note is on its way. I'll be in touch within two business days.</p>
+        </div>
+        <div id="formError" style="display:none;background:#fdf2f2;border-radius:10px;padding:1rem;margin-top:1rem;text-align:center;">
+          <p style="margin:0;color:#8b3a3a;font-size:0.9rem;">Something went wrong. Please email <a href="mailto:hello@illuminatedintegration.com" style="color:#8b3a3a;">hello@illuminatedintegration.com</a> directly.</p>
+        </div>
       </form>
 
       <aside class="contact-aside">
@@ -65,10 +75,38 @@
   <div data-site-footer></div>
   <script src="../shared/site-chrome.js" defer></script>
   <script>
-    function submitContact(e) {
+    async function submitContact(e) {
       e.preventDefault();
-      alert('Thank you, contact form not yet wired to email delivery. Please write to hello@illuminatedintegration.com for now.');
-      return false;
+      const form = document.getElementById('contactForm');
+      const btn = document.getElementById('submitBtn');
+      const success = document.getElementById('formSuccess');
+      const error = document.getElementById('formError');
+
+      btn.disabled = true;
+      btn.textContent = 'Sending...';
+      success.style.display = 'none';
+      error.style.display = 'none';
+
+      try {
+        const data = new FormData(form);
+        const res = await fetch('https://api.web3forms.com/submit', {
+          method: 'POST',
+          body: data
+        });
+        const json = await res.json();
+
+        if (json.success) {
+          form.reset();
+          success.style.display = 'block';
+          btn.style.display = 'none';
+        } else {
+          throw new Error(json.message);
+        }
+      } catch (err) {
+        error.style.display = 'block';
+        btn.disabled = false;
+        btn.textContent = 'Send note';
+      }
     }
   </script>
 </body>
