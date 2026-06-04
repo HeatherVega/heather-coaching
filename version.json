@@ -1,12 +1,12 @@
 {
-  "version": "v260604.04 4:12a",
-  "release": 4,
-  "sha": "c59cfea",
-  "fullSha": "c59cfeab3ee77c82fd4d4af2604768c864f11855",
+  "version": "v260604.05 12:29p",
+  "release": 5,
+  "sha": "1a51432",
+  "fullSha": "1a514322c5e19e6b469bac9c877bb599cc508c4f",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-03T23:12:29-05:00",
-  "commits": [{"sha":"c59cfea","message":"Restore number range hyphens in essays (Days 1-3, Weeks 3-8, etc.)","author":"Heather McCan"}]
+  "pushedAt": "2026-06-04T07:29:04-05:00",
+  "commits": [{"sha":"1a51432","message":"Wire contact form to Web3Forms for email delivery","author":"Heather McCan"}]
 }
