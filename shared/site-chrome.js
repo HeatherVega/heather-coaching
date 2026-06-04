@@ -97,7 +97,7 @@
           <a href="${base}contact/">Contact</a>
         </p>
         <p class="footer-disclaimer">This work is not a substitute for medical or psychiatric care. If you are in immediate crisis, please contact a licensed provider or call <a href="tel:988">988</a> (Suicide &amp; Crisis Lifeline).</p>
-        <p class="footer-fine">© ${year} Illuminated Integration. All rights reserved.</p>
+        <p class="footer-fine">© ${year} Illuminated Integration. All rights reserved. · <a href="${base}privacy/" style="color:inherit;opacity:0.7;">Privacy Policy</a></p>
       </div>
     </footer>
   `;
