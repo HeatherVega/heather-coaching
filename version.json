@@ -1,12 +1,12 @@
 {
-  "version": "v260604.07 9:34p",
-  "release": 7,
-  "sha": "de37762",
-  "fullSha": "de377629b30c459e1e5257570ed1c116cf96ff41",
+  "version": "v260604.08 9:48p",
+  "release": 8,
+  "sha": "031616e",
+  "fullSha": "031616e2b77811c0ea407c457e74b9d32012cf89",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-04T16:34:41-05:00",
-  "commits": [{"sha":"de37762","message":"Rewrite about page bio — final elite version with full personal story","author":"Heather McCan"}]
+  "pushedAt": "2026-06-04T16:48:32-05:00",
+  "commits": [{"sha":"031616e","message":"Update about page bio and homepage who I work with cards","author":"Heather McCan"}]
 }
