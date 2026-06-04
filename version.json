@@ -1,12 +1,12 @@
 {
-  "version": "v260604.12 10:03p",
-  "release": 12,
-  "sha": "8fc4a48",
-  "fullSha": "8fc4a48d5d4bc7121f995c2cdab30182cf8c4c68",
+  "version": "v260604.13 10:05p",
+  "release": 13,
+  "sha": "db1c8f1",
+  "fullSha": "db1c8f18664b6a2e80c2a778253ed42f7c8ae2cc",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-04T17:03:29-05:00",
-  "commits": [{"sha":"8fc4a48","message":"Site-wide fixes: years consistency, nav labels, footer credentials, blog cards, contact page, somatic photo","author":"Heather McCan"}]
+  "pushedAt": "2026-06-04T17:05:35-05:00",
+  "commits": [{"sha":"db1c8f1","message":"Use outdoors/dog photo on somatic page instead of duplicate garden photo","author":"Heather McCan"}]
 }
