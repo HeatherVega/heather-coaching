@@ -1,12 +1,12 @@
 {
-  "version": "v260604.13 10:05p",
-  "release": 13,
-  "sha": "db1c8f1",
-  "fullSha": "db1c8f18664b6a2e80c2a778253ed42f7c8ae2cc",
+  "version": "v260604.14 10:16p",
+  "release": 14,
+  "sha": "a38efba",
+  "fullSha": "a38efba2c181a7125fd3e518b39b3919bc56b38d",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-04T17:05:35-05:00",
-  "commits": [{"sha":"db1c8f1","message":"Use outdoors/dog photo on somatic page instead of duplicate garden photo","author":"Heather McCan"}]
+  "pushedAt": "2026-06-04T17:16:16-05:00",
+  "commits": [{"sha":"a38efba","message":"Add sitemap, robots.txt, privacy policy, improved SEO meta descriptions, Open Graph tags","author":"Heather McCan"}]
 }
