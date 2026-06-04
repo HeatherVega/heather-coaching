@@ -1,12 +1,12 @@
 {
-  "version": "v260604.03 4:12a",
-  "release": 3,
-  "sha": "b027e59",
-  "fullSha": "b027e59d81982f0c25116a9810e9e17895729e1f",
+  "version": "v260604.04 4:12a",
+  "release": 4,
+  "sha": "c59cfea",
+  "fullSha": "c59cfeab3ee77c82fd4d4af2604768c864f11855",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-03T23:11:59-05:00",
-  "commits": [{"sha":"b027e59","message":"Remove all em and en dashes from visible text across the site","author":"Heather McCan"}]
+  "pushedAt": "2026-06-03T23:12:29-05:00",
+  "commits": [{"sha":"c59cfea","message":"Restore number range hyphens in essays (Days 1-3, Weeks 3-8, etc.)","author":"Heather McCan"}]
 }
