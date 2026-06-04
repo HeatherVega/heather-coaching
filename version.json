@@ -1,12 +1,12 @@
 {
-  "version": "v260604.05 12:29p",
-  "release": 5,
-  "sha": "1a51432",
-  "fullSha": "1a514322c5e19e6b469bac9c877bb599cc508c4f",
+  "version": "v260604.06 9:04p",
+  "release": 6,
+  "sha": "2997e03",
+  "fullSha": "2997e0353c07a05b22ac05f4bbe5743853491558",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-04T07:29:04-05:00",
-  "commits": [{"sha":"1a51432","message":"Wire contact form to Web3Forms for email delivery","author":"Heather McCan"}]
+  "pushedAt": "2026-06-04T16:04:02-05:00",
+  "commits": [{"sha":"2997e03","message":"Activate Web3Forms contact form with live access key","author":"Heather McCan"}]
 }
