@@ -37,7 +37,7 @@
               <a href="${base}services/coaching/" role="menuitem">Transformational Coaching</a>
               <a href="${base}services/integration/" role="menuitem">Psychedelic Preparation &amp; Integration</a>
               <a href="${base}services/somatic/" role="menuitem">Somatic Healing &amp; Bodywork</a>
-              <a href="${base}services/ceremonial/" role="menuitem">Private Ceremonial Support</a>
+              <a href="${base}services/ceremonial/" role="menuitem">Plant Medicine &amp; Ceremonial Support</a>
               <a href="${base}services/" class="dropdown-all" role="menuitem">All offerings</a>
             </div>
           </div>
@@ -71,7 +71,7 @@
               <a href="${base}services/coaching/">Transformational Coaching</a>
               <a href="${base}services/integration/">Psychedelic Preparation &amp; Integration</a>
               <a href="${base}services/somatic/">Somatic Healing &amp; Bodywork</a>
-              <a href="${base}services/ceremonial/">Private Ceremonial Support</a>
+              <a href="${base}services/ceremonial/">Plant Medicine &amp; Ceremonial Support</a>
               <a href="${base}services/" class="mobile-drawer-sublinks-all">All offerings</a>
             </div>
           </details>
@@ -88,7 +88,7 @@
       <div class="footer-inner">
         <p class="footer-brand">Illuminated</p>
         <span class="footer-brand-script">Integration</span>
-        <p class="footer-meta">Heather McCan · Trauma-Informed Transformational Coach · Psychedelic Integration Specialist</p>
+        <p class="footer-meta">Heather McCan · Trauma-Informed Transformational Coach · Psychedelic Integration Specialist · Certified Addiction Recovery Coach · Licensed Massage Therapist</p>
         <p class="footer-links">
           <a href="${base}">Home</a> ·
           <a href="${base}about/">About</a> ·
