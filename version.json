@@ -1,12 +1,12 @@
 {
-  "version": "v260604.11 9:56p",
-  "release": 11,
-  "sha": "0ce2062",
-  "fullSha": "0ce2062dcdea9996371a42fb50fd65763052966f",
+  "version": "v260604.12 10:03p",
+  "release": 12,
+  "sha": "8fc4a48",
+  "fullSha": "8fc4a48d5d4bc7121f995c2cdab30182cf8c4c68",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-04T16:56:17-05:00",
-  "commits": [{"sha":"0ce2062","message":"Remove relationship addiction from who I work with card","author":"Heather McCan"}]
+  "pushedAt": "2026-06-04T17:03:29-05:00",
+  "commits": [{"sha":"8fc4a48","message":"Site-wide fixes: years consistency, nav labels, footer credentials, blog cards, contact page, somatic photo","author":"Heather McCan"}]
 }
