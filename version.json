@@ -1,12 +1,12 @@
 {
-  "version": "v260604.14 10:16p",
-  "release": 14,
-  "sha": "a38efba",
-  "fullSha": "a38efba2c181a7125fd3e518b39b3919bc56b38d",
+  "version": "v260604.15 11:13p",
+  "release": 15,
+  "sha": "abd1417",
+  "fullSha": "abd1417a1f18e996f39a7b72e70fa3214c7c090c",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-04T17:16:16-05:00",
-  "commits": [{"sha":"a38efba","message":"Add sitemap, robots.txt, privacy policy, improved SEO meta descriptions, Open Graph tags","author":"Heather McCan"}]
+  "pushedAt": "2026-06-04T18:12:58-05:00",
+  "commits": [{"sha":"abd1417","message":"Update all email references to heather@illuminatedintegration.org","author":"Heather McCan"}]
 }
