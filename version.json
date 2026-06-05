@@ -1,12 +1,12 @@
 {
-  "version": "v260604.15 11:13p",
-  "release": 15,
-  "sha": "abd1417",
-  "fullSha": "abd1417a1f18e996f39a7b72e70fa3214c7c090c",
+  "version": "v260605.01 7:22p",
+  "release": 1,
+  "sha": "8d869fd",
+  "fullSha": "8d869fd5fc8b3494e9331498cafeb04a607e2657",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-04T18:12:58-05:00",
-  "commits": [{"sha":"abd1417","message":"Update all email references to heather@illuminatedintegration.org","author":"Heather McCan"}]
+  "pushedAt": "2026-06-05T14:22:33-05:00",
+  "commits": [{"sha":"8d869fd","message":"Remove remaining em dashes from about page","author":"Heather McCan"}]
 }
