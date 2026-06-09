@@ -96,6 +96,12 @@
           <a href="${base}blog/">Writing</a> ·
           <a href="${base}contact/">Contact</a>
         </p>
+        <p class="footer-social">
+          <a href="https://www.instagram.com/illuminated.integration/" target="_blank" rel="noopener" aria-label="Follow Illuminated Integration on Instagram">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+            <span>@illuminated.integration</span>
+          </a>
+        </p>
         <p class="footer-disclaimer">This work is not a substitute for medical or psychiatric care. If you are in immediate crisis, please contact a licensed provider or call <a href="tel:988">988</a> (Suicide &amp; Crisis Lifeline).</p>
         <p class="footer-fine">© ${year} Illuminated Integration. All rights reserved. · <a href="${base}privacy/" style="color:inherit;opacity:0.7;">Privacy Policy</a></p>
       </div>
