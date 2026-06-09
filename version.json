@@ -1,12 +1,12 @@
 {
-  "version": "v260609.07 8:25p",
-  "release": 7,
-  "sha": "d15cb29",
-  "fullSha": "d15cb2904d401ea1e71203bf3e9792ac5486b832",
+  "version": "v260609.08 10:26p",
+  "release": 8,
+  "sha": "a1ade9b",
+  "fullSha": "a1ade9ba1c2ec6e0bbc8ce74a80dabe3fdafd2fa",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
-  "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-09T15:24:45-05:00",
-  "commits": [{"sha":"d15cb29","message":"Add Instagram @illuminated.integration to footer with icon","author":"Heather McCan"}]
+  "machine": "runnervm1li68",
+  "pushedAt": "2026-06-09T17:26:37-05:00",
+  "commits": [{"sha":"a1ade9b","message":"Replace all Calendly links with new business account, add session booking buttons to all service pages","author":"Heather McCan"}]
 }
