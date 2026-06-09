@@ -1891,6 +1891,21 @@ section.section:nth-of-type(even) {
   .hero { min-height: 92vh; }
   .hero-content { padding-bottom: calc(var(--gutter) * 2.25); }
 
+  /* Hide the long credentials line on mobile — too much to read */
+  .hero-title { display: none; }
+
+  /* Tagline smaller so it fits on one or two lines */
+  .hero-tagline { font-size: 0.62rem; letter-spacing: 0.2em; }
+
+  /* Hero h1 tighter on small screens */
+  .hero h1 { font-size: clamp(2.4rem, 10vw, 3.5rem); }
+
+  /* Page hero content padding on mobile */
+  .page-hero-content { padding: 1.5rem 1.25rem; padding-bottom: 2.25rem; margin: 0; }
+
+  /* Contact circle photo smaller on mobile */
+  .contact-circle-photo { width: 200px !important; height: 200px !important; }
+
   .section { padding-left: var(--gutter); padding-right: var(--gutter); }
   .section-header { margin-bottom: 2.5rem; }
 
