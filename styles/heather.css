@@ -1909,6 +1909,24 @@ section.section:nth-of-type(even) {
   .section { overflow-x: hidden; }
   .section-header { padding: 0 0.5rem; }
 
+  /* Who cards — no side padding on mobile, let text breathe */
+  .who-card { padding: 0; }
+  .who-card h3 { font-size: 1.2rem; }
+
+  /* Tighten hero lede on small screens */
+  .hero .lede { font-size: 0.97rem; }
+  .lede { font-size: 1rem; }
+
+  /* Blog index cards full width */
+  .journal-card { border-radius: 8px; }
+
+  /* Footer meta text wrap */
+  .footer-meta { font-size: 0.68rem; letter-spacing: 0.12em; line-height: 1.8; }
+  .footer-links { font-size: 0.68rem; letter-spacing: 0.12em; }
+
+  /* Services index page */
+  .page-hero h1 { font-size: clamp(1.8rem, 8vw, 2.5rem); }
+
   /* Page hero content padding on mobile */
   .page-hero-content { padding: 1.5rem 1.25rem; padding-bottom: 2.25rem; margin: 0; }
 
