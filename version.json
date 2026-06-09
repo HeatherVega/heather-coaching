@@ -1,12 +1,12 @@
 {
-  "version": "v260609.06 8:13p",
-  "release": 6,
-  "sha": "6e4954e",
-  "fullSha": "6e4954e45919387c502f086d8316fecdb07bd1d1",
+  "version": "v260609.07 8:25p",
+  "release": 7,
+  "sha": "d15cb29",
+  "fullSha": "d15cb2904d401ea1e71203bf3e9792ac5486b832",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-09T15:12:59-05:00",
-  "commits": [{"sha":"6e4954e","message":"Stellar SEO: schema markup, canonical URLs, OG tags on all pages including blog articles","author":"Heather McCan"}]
+  "pushedAt": "2026-06-09T15:24:45-05:00",
+  "commits": [{"sha":"d15cb29","message":"Add Instagram @illuminated.integration to footer with icon","author":"Heather McCan"}]
 }
