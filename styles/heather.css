@@ -1897,8 +1897,17 @@ section.section:nth-of-type(even) {
   /* Tagline smaller so it fits on one or two lines */
   .hero-tagline { font-size: 0.62rem; letter-spacing: 0.2em; }
 
+  /* Scale all headings down on small screens */
+  h1 { font-size: clamp(2rem, 9vw, 3rem); }
+  h2 { font-size: clamp(1.5rem, 7vw, 2.2rem); }
+  h3 { font-size: clamp(1.1rem, 5vw, 1.4rem); }
+
   /* Hero h1 tighter on small screens */
-  .hero h1 { font-size: clamp(2.4rem, 10vw, 3.5rem); }
+  .hero h1 { font-size: clamp(2.2rem, 10vw, 3rem); }
+
+  /* Prevent any section content from bleeding past the viewport */
+  .section { overflow-x: hidden; }
+  .section-header { padding: 0 0.5rem; }
 
   /* Page hero content padding on mobile */
   .page-hero-content { padding: 1.5rem 1.25rem; padding-bottom: 2.25rem; margin: 0; }
