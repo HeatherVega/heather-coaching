@@ -19,6 +19,105 @@
   <link href="https://fonts.googleapis.com/css2?family=Allura&family=Cinzel:wght@400;500;600&family=Lato:wght@300;400;700&family=Montserrat:wght@400;500;600&family=Playfair+Display:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="styles/heather.css">
+  <link rel="canonical" href="https://illuminatedintegration.org/">
+
+  <!-- Structured Data: Local Business + Person + Services -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LocalBusiness",
+        "@id": "https://illuminatedintegration.org/#business",
+        "name": "Illuminated Integration",
+        "description": "Trauma-informed transformational coaching, psychedelic integration, somatic healing, and plant medicine support with Heather McCan in Austin, TX.",
+        "url": "https://illuminatedintegration.org",
+        "telephone": "",
+        "email": "heather@illuminatedintegration.org",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Austin",
+          "addressRegion": "TX",
+          "addressCountry": "US"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 30.2672,
+          "longitude": -97.7431
+        },
+        "areaServed": [
+          { "@type": "City", "name": "Austin", "sameAs": "https://en.wikipedia.org/wiki/Austin,_Texas" },
+          { "@type": "State", "name": "Texas" },
+          { "@type": "Country", "name": "United States" }
+        ],
+        "serviceType": [
+          "Trauma-Informed Coaching",
+          "Psychedelic Integration",
+          "Addiction Recovery Coaching",
+          "Somatic Healing",
+          "Plant Medicine Support",
+          "Ceremonial Support"
+        ],
+        "priceRange": "$$",
+        "openingHours": "Mo-Fr 09:00-18:00",
+        "sameAs": [
+          "https://illuminatedintegration.org"
+        ]
+      },
+      {
+        "@type": "Person",
+        "@id": "https://illuminatedintegration.org/#heather",
+        "name": "Heather McCan",
+        "jobTitle": "Trauma-Informed Transformational Coach and Psychedelic Integration Specialist",
+        "description": "Heather McCan is a trauma survivor, certified transformational addiction recovery coach, psychedelic integration specialist, and licensed massage therapist based in Austin, TX. With 10 years of sobriety and 15+ years of healing practice, she guides clients through trauma, addiction recovery, and expanded state integration.",
+        "url": "https://illuminatedintegration.org/about/",
+        "email": "heather@illuminatedintegration.org",
+        "worksFor": { "@id": "https://illuminatedintegration.org/#business" },
+        "knowsAbout": [
+          "Trauma-Informed Coaching",
+          "Psychedelic Integration",
+          "Somatic Healing",
+          "Addiction Recovery",
+          "Plant Medicine",
+          "CPTSD",
+          "Shadow Work",
+          "Nervous System Regulation"
+        ],
+        "hasCredential": [
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Certified Transformational Addiction Recovery Coach",
+            "credentialCategory": "Professional Certification",
+            "recognizedBy": { "@type": "Organization", "name": "Being True to You" }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Licensed Massage Therapist",
+            "credentialCategory": "Professional License"
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Master's in Psychedelic Therapy (in progress)",
+            "credentialCategory": "Graduate Degree",
+            "recognizedBy": { "@type": "Organization", "name": "Ubiquity University" }
+          }
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://illuminatedintegration.org/#website",
+        "url": "https://illuminatedintegration.org",
+        "name": "Illuminated Integration",
+        "publisher": { "@id": "https://illuminatedintegration.org/#heather" },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://illuminatedintegration.org/?s={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
   <span data-site-version style="display:none;">v260609.05 8:09p</span>
