@@ -1,12 +1,12 @@
 {
-  "version": "v260609.02 7:58p",
-  "release": 2,
-  "sha": "5553ca7",
-  "fullSha": "5553ca775d6725c1d9bbceba43425e7b2d2fd25a",
+  "version": "v260609.03 8:03p",
+  "release": 3,
+  "sha": "2fa76e8",
+  "fullSha": "2fa76e88517da98a8591a6319989e662c29ca4ff",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
-  "machine": "runnervm1li68",
-  "pushedAt": "2026-06-09T14:58:32-05:00",
-  "commits": [{"sha":"5553ca7","message":"Mobile polish: hide hero credentials line, fix tagline, page-hero padding, contact photo size","author":"Heather McCan"}]
+  "machine": "runnervm3jyl0",
+  "pushedAt": "2026-06-09T15:02:45-05:00",
+  "commits": [{"sha":"2fa76e8","message":"Mobile: scale headings down, fix section overflow on small screens","author":"Heather McCan"}]
 }
