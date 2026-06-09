@@ -1,12 +1,12 @@
 {
-  "version": "v260609.01 7:57p",
-  "release": 1,
-  "sha": "8717f9c",
-  "fullSha": "8717f9c8d8fcfc0d780cfa7ccc56fd2141d59f91",
+  "version": "v260609.02 7:58p",
+  "release": 2,
+  "sha": "5553ca7",
+  "fullSha": "5553ca775d6725c1d9bbceba43425e7b2d2fd25a",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
-  "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-09T14:56:57-05:00",
-  "commits": [{"sha":"8717f9c","message":"Fix mobile nav logo overlap — reduce script font size and margin","author":"Heather McCan"}]
+  "machine": "runnervm1li68",
+  "pushedAt": "2026-06-09T14:58:32-05:00",
+  "commits": [{"sha":"5553ca7","message":"Mobile polish: hide hero credentials line, fix tagline, page-hero padding, contact photo size","author":"Heather McCan"}]
 }
