@@ -1,12 +1,12 @@
 {
-  "version": "v260609.03 8:03p",
-  "release": 3,
-  "sha": "2fa76e8",
-  "fullSha": "2fa76e88517da98a8591a6319989e662c29ca4ff",
+  "version": "v260609.04 8:05p",
+  "release": 4,
+  "sha": "0102a81",
+  "fullSha": "0102a810b9cd95d28791a14b602aedf74768e411",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
-  "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-09T15:02:45-05:00",
-  "commits": [{"sha":"2fa76e8","message":"Mobile: scale headings down, fix section overflow on small screens","author":"Heather McCan"}]
+  "machine": "runnervm1li68",
+  "pushedAt": "2026-06-09T15:05:04-05:00",
+  "commits": [{"sha":"0102a81","message":"Mobile audit: tighten who-cards, footer, lede, page-hero heading on small screens","author":"Heather McCan"}]
 }
