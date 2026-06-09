@@ -1,12 +1,12 @@
 {
-  "version": "v260609.05 8:09p",
-  "release": 5,
-  "sha": "5bbdf85",
-  "fullSha": "5bbdf85178bc699235a7cdb1289b02699df916c5",
+  "version": "v260609.06 8:13p",
+  "release": 6,
+  "sha": "6e4954e",
+  "fullSha": "6e4954e45919387c502f086d8316fecdb07bd1d1",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
-  "machine": "runnervm1li68",
-  "pushedAt": "2026-06-09T15:09:31-05:00",
-  "commits": [{"sha":"5bbdf85","message":"Add Open Graph meta tags to all inner pages for social sharing","author":"Heather McCan"}]
+  "machine": "runnervm3jyl0",
+  "pushedAt": "2026-06-09T15:12:59-05:00",
+  "commits": [{"sha":"6e4954e","message":"Stellar SEO: schema markup, canonical URLs, OG tags on all pages including blog articles","author":"Heather McCan"}]
 }
