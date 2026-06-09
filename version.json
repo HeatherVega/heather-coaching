@@ -1,12 +1,12 @@
 {
-  "version": "v260605.01 7:22p",
+  "version": "v260609.01 7:57p",
   "release": 1,
-  "sha": "8d869fd",
-  "fullSha": "8d869fd5fc8b3494e9331498cafeb04a607e2657",
+  "sha": "8717f9c",
+  "fullSha": "8717f9c8d8fcfc0d780cfa7ccc56fd2141d59f91",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-05T14:22:33-05:00",
-  "commits": [{"sha":"8d869fd","message":"Remove remaining em dashes from about page","author":"Heather McCan"}]
+  "pushedAt": "2026-06-09T14:56:57-05:00",
+  "commits": [{"sha":"8717f9c","message":"Fix mobile nav logo overlap — reduce script font size and margin","author":"Heather McCan"}]
 }
