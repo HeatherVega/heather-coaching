@@ -514,8 +514,9 @@ p { margin: 0 0 1em; }
   .site-nav.scrolled { padding: 0.5rem 0; }
   .nav-inner { gap: 1rem; }
   .brand { font-size: 0.82rem; letter-spacing: 0.24em; }
-  .brand-mark .brand-mark-top { font-size: 0.78rem; }
-  .brand-mark .brand-mark-script { font-size: 1.45rem; }
+  .brand-mark .brand-mark-top { font-size: 0.72rem; letter-spacing: 0.22em; }
+  .brand-mark .brand-mark-script { font-size: 1.25rem; margin-left: 0.6em; }
+  .brand-mark-icon { height: 38px; }
   .nav-links { display: none; }
   .nav-toggle { display: inline-flex; }
 }
