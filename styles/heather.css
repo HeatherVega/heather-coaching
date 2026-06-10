@@ -1954,11 +1954,33 @@ section.section:nth-of-type(even) {
   /* Contact circle photo smaller on mobile */
   .contact-circle-photo { width: 200px !important; height: 200px !important; }
 
+  /* Tighten vertical rhythm site-wide on mobile — sections were
+     floored at 4rem top+bottom, leaving big empty bands. */
+  :root { --section-y: clamp(2.25rem, 7vw, 3.25rem); }
   .section { padding-left: var(--gutter); padding-right: var(--gutter); }
-  .section-header { margin-bottom: 2.5rem; }
+  .section-header { margin-bottom: 1.75rem; }
+  .section-footer-note { margin-top: 1.75rem; font-size: 0.97rem; }
 
-  .card { padding: 1.75rem 1.5rem; }
+  /* Offerings cards — tighter stack on mobile */
+  .cards { gap: 1rem; margin-bottom: 2rem; }
+  .card { padding: 1.5rem 1.35rem; }
+  .card h3 { margin-bottom: 0.65rem; }
+  .card-desc { margin-bottom: 1.25rem; }
   .card .btn { width: 100%; text-align: center; }
+
+  /* Who section — smaller icons + tighter gaps */
+  .who-grid { gap: 2.25rem; }
+  .who-icon { width: 66px; height: 66px; margin-bottom: 1.1rem; }
+  .who-icon svg { width: 34px; height: 34px; }
+  .who-card p { font-size: 0.95rem; }
+
+  /* Blog / journal — shorter images so the column doesn't sprawl */
+  .journal-grid, .journal-grid-lg { gap: 2rem; }
+  .journal-image { aspect-ratio: 16 / 10; margin-bottom: 0.85rem; }
+  .journal-card-full .journal-image { aspect-ratio: 16 / 9; }
+
+  /* Approach — a touch tighter */
+  .section-approach .col-text p { font-size: 0.95rem; }
 
   .contact-form input,
   .contact-form textarea { font-size: 16px; padding: 1rem; }
