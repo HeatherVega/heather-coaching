@@ -1,12 +1,12 @@
 {
-  "version": "v260610.01 7:50p",
-  "release": 1,
-  "sha": "98d7a23",
-  "fullSha": "98d7a230f5f491b7fc87208f873f633fb5703ee7",
+  "version": "v260610.02 7:58p",
+  "release": 2,
+  "sha": "96b4093",
+  "fullSha": "96b4093a8b66658f0adc5a2f0d198f54bf382d84",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-10T12:50:16-07:00",
-  "commits": [{"sha":"98d7a23","message":"Lighten hero: smaller lede + credentials line for less density","author":"Lauren Burandt"}]
+  "pushedAt": "2026-06-10T12:57:47-07:00",
+  "commits": [{"sha":"96b4093","message":"Mobile: tighten section spacing, fix broken testimonial markup","author":"Lauren Burandt"}]
 }
