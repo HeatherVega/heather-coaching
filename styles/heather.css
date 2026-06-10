@@ -771,20 +771,22 @@ p { margin: 0 0 1em; }
 }
 .hero .lede {
   color: rgba(244, 237, 226, 0.92);
-  max-width: 48ch;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  max-width: 52ch;
 }
 
 /* Hero tagline — "HEALING · ILLUMINATION · OF THE SOUL" */
 .hero-title {
   font-family: var(--tracked);
-  font-size: 0.75rem;
-  font-weight: 600;
-  letter-spacing: 0.18em;
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--gold-soft);
-  opacity: 1;
-  margin: 0.75rem 0 1.5rem;
-  line-height: 1.8;
+  opacity: 0.9;
+  margin: 0.5rem 0 1.65rem;
+  line-height: 1.7;
   text-shadow: 0 1px 12px rgba(0, 0, 0, 0.8);
 }
 
