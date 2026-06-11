@@ -1,12 +1,12 @@
 {
-  "version": "v260611.03 4:29p",
-  "release": 3,
-  "sha": "f3422d1",
-  "fullSha": "f3422d1123f06472312343a450510bae98f9fa49",
+  "version": "v260611.04 4:35p",
+  "release": 4,
+  "sha": "b4da055",
+  "fullSha": "b4da0554f4f3cae00ca4bc6660353c5c1f082ddf",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-11T11:29:02-05:00",
-  "commits": [{"sha":"f3422d1","message":"Mobile: shrink hero lede + tighten line-height","author":"Lauren Burandt"}]
+  "pushedAt": "2026-06-11T11:34:53-05:00",
+  "commits": [{"sha":"b4da055","message":"Hero: drop \"Transformational\" from credentials line","author":"Lauren Burandt"}]
 }
