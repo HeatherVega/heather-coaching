@@ -414,10 +414,10 @@ p { margin: 0 0 1em; }
 }
 .mobile-drawer-section summary {
   font-family: var(--serif);
-  font-size: 1.45rem;
+  font-size: 1.15rem;
   font-weight: 400;
   color: var(--charcoal);
-  padding: 0.85rem 0;
+  padding: 0.7rem 0;
   letter-spacing: -0.01em;
   list-style: none;
   cursor: pointer;
@@ -443,12 +443,12 @@ p { margin: 0 0 1em; }
   gap: 0;
   padding-bottom: 0.4rem;
 }
-.mobile-drawer-sublinks a {
+.mobile-drawer-section .mobile-drawer-sublinks a {
   font-family: var(--serif);
-  font-size: 1.05rem;
+  font-size: 0.95rem;
   font-weight: 400;
   color: var(--charcoal-soft);
-  padding: 0.55rem 0 0.55rem 1.1rem;
+  padding: 0.45rem 0 0.45rem 1.1rem;
   border-bottom: none;
   letter-spacing: -0.005em;
   position: relative;
@@ -606,10 +606,10 @@ p { margin: 0 0 1em; }
 }
 .mobile-drawer-links a {
   font-family: var(--serif);
-  font-size: 1.45rem;
+  font-size: 1.15rem;
   font-weight: 400;
   color: var(--charcoal);
-  padding: 0.85rem 0;
+  padding: 0.7rem 0;
   border-bottom: 1px solid var(--hairline);
   letter-spacing: -0.01em;
   transition: color 0.2s ease, padding-left 0.2s ease;
@@ -1125,12 +1125,30 @@ section.section:nth-of-type(even) {
 }
 
 .section-testimonial blockquote {
+  position: relative;
   margin: 0;
+  padding-top: 2.75rem;
   font-family: var(--serif);
-  font-size: clamp(1.4rem, 3vw, 2rem);
-  line-height: 1.4;
+  font-style: italic;
+  font-size: clamp(1.3rem, 2.6vw, 1.8rem);
+  line-height: 1.5;
   font-weight: 400;
-  color: var(--charcoal);
+  color: var(--plum-deep);
+}
+/* Oversized decorative opening quote in the brand script */
+.section-testimonial blockquote::before {
+  content: '\201C';
+  position: absolute;
+  top: 0.15em;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: var(--script);
+  font-style: normal;
+  font-size: 5rem;
+  line-height: 1;
+  color: var(--gold-soft);
+  opacity: 0.85;
+  pointer-events: none;
 }
 .section-testimonial blockquote em {
   font-family: var(--script);
