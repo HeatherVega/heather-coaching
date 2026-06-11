@@ -1357,6 +1357,15 @@ section.section:nth-of-type(even) {
 @media (max-width: 720px) {
   .page-hero { min-height: 72vh; margin-bottom: 2.5rem; }
 }
+
+/* The hero already gives separation, so the first content section
+   below it doesn't need its full top padding — avoids a big empty band. */
+.page-hero + .section { padding-top: 2.5rem; }
+
+/* Text-heavy two-column layouts read better top-aligned than centered,
+   so a shorter photo doesn't float with dead space beside the text. */
+.two-col:has(.col-text-wide) { align-items: start; }
+
 .page-hero-photo {
   position: absolute;
   inset: 0;
