@@ -1,12 +1,12 @@
 {
-  "version": "v260611.05 4:50p",
-  "release": 5,
-  "sha": "6194eef",
-  "fullSha": "6194eef6f74f53cf3657996b311d71df347aa46c",
+  "version": "v260611.06 5:00p",
+  "release": 6,
+  "sha": "d39b356",
+  "fullSha": "d39b3560428bd63ad3838aa7274db98b9eaa5107",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-11T11:49:59-05:00",
-  "commits": [{"sha":"6194eef","message":"Mobile: tighten about credentials/values + long-article rhythm","author":"Lauren Burandt"}]
+  "pushedAt": "2026-06-11T11:59:50-05:00",
+  "commits": [{"sha":"d39b356","message":"About bio + coaching copy: more human, tighter; cap bio photo on mobile","author":"Lauren Burandt"}]
 }
