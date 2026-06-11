@@ -2,6 +2,21 @@
 
 This project's scaffolding is in place. The remaining steps all require credentials/accounts that need interactive sign-up. When you open this project in Claude Code (`cd ~/heather-coaching && claude`), work through these in order.
 
+## 0. GitHub ownership transfer (in progress)
+
+The repo is being moved from `laurenbur2` to Heather's account (`heathermccan911-cmd`).
+
+**Heather must do (one-time):**
+1. Open the email from GitHub titled "laurenbur2 wants to transfer heather-coaching to you" (or go to https://github.com/heathermccan911-cmd and look for the pending transfer) and click **Accept**.
+2. After accepting, go to the repo → **Settings → Pages** and confirm Source = `Deploy from a branch`, Branch = `main`, folder = `/ (root)`. Save if needed.
+3. The live site will then be **https://heathermccan911-cmd.github.io/heather-coaching/**.
+
+**After acceptance (developer):**
+- Update the local clone's remote: `git remote set-url origin https://github.com/heathermccan911-cmd/heather-coaching.git`
+- Confirm CI (version bump) still runs on push.
+
+Note: the old `laurenbur2.github.io/heather-coaching` URL stops serving once the transfer completes (old links auto-redirect on github.com, but not the Pages site).
+
 ## 1. Supabase (database + auth + storage)
 
 **What it does:** Stores bookings, clients, session packages, and handles login.
@@ -50,6 +65,6 @@ Once Supabase is linked, Claude Code will:
 
 ## 5. Domain (optional, later)
 
-Project will live at https://laurenbur2.github.io/heather-coaching/ by default. If Heather has a domain (e.g., `heathercoaching.com`), configure it in:
+Project will live at https://heathermccan911-cmd.github.io/heather-coaching/ by default. If Heather has a domain (e.g., `illuminatedintegration.org`), configure it in:
 - GitHub repo → Settings → Pages → Custom domain
-- DNS: CNAME `www` → `laurenbur2.github.io`
+- DNS: CNAME `www` → `heathermccan911-cmd.github.io`

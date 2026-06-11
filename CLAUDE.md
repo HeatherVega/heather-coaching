@@ -34,7 +34,7 @@ This is **heather-coaching** — Heather's integration coach website with custom
 
 - **Product:** Integration coach site for Heather — scheduling + package purchasing
 - **Tech:** Vanilla HTML/JS + Tailwind v4 | Supabase | GitHub Pages
-- **Live:** https://laurenbur2.github.io/heather-coaching/ (once Pages is enabled)
+- **Live:** https://heathermccan911-cmd.github.io/heather-coaching/ (after repo transfer + Pages enabled on Heather's account)
 - **Architecture:** Browser → GitHub Pages → Supabase (no server-side code)
 - **Enabled features:** core, email (Resend), payments (Stripe), custom scheduling
 - **Template source:** https://github.com/rsonnad/alpacapps-infra
