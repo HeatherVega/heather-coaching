@@ -1,12 +1,12 @@
 {
-  "version": "v260611.02 4:26p",
-  "release": 2,
-  "sha": "3af477a",
-  "fullSha": "3af477ab4a039d7cc3ec4dc182f58d4fbc604f86",
+  "version": "v260611.03 4:29p",
+  "release": 3,
+  "sha": "f3422d1",
+  "fullSha": "f3422d1123f06472312343a450510bae98f9fa49",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
-  "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-11T11:25:50-05:00",
-  "commits": [{"sha":"3af477a","message":"Mobile: keep hero credentials line, shrink instead of hiding","author":"Lauren Burandt"}]
+  "machine": "runnervm1li68",
+  "pushedAt": "2026-06-11T11:29:02-05:00",
+  "commits": [{"sha":"f3422d1","message":"Mobile: shrink hero lede + tighten line-height","author":"Lauren Burandt"}]
 }
