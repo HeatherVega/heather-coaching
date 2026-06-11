@@ -1,12 +1,12 @@
 {
-  "version": "v260611.08 5:49p",
-  "release": 8,
-  "sha": "aada3a9",
-  "fullSha": "aada3a976c9057df9302339b990dd7cd01f47659",
+  "version": "v260611.09 6:06p",
+  "release": 9,
+  "sha": "a7ca171",
+  "fullSha": "a7ca1712cbea35d96e51e339d00f5e2af3ec8f4d",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-11T12:49:03-05:00",
-  "commits": [{"sha":"aada3a9","message":"Remove em dashes from about bio + coaching copy","author":"Lauren Burandt"}]
+  "pushedAt": "2026-06-11T13:06:19-05:00",
+  "commits": [{"sha":"a7ca171","message":"Docs: point references to Heather's account ahead of transfer","author":"Lauren Burandt"}]
 }
