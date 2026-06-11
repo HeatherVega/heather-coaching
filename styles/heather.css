@@ -1979,6 +1979,9 @@ section.section:nth-of-type(even) {
   /* Contact circle photo smaller on mobile */
   .contact-circle-photo { width: 200px !important; height: 200px !important; }
 
+  /* About bio portrait — cap size on mobile so it doesn't dominate */
+  .bio-photo { max-width: 260px; max-height: 320px; margin: 0 auto 0.5rem; display: block; }
+
   /* Tighten vertical rhythm site-wide on mobile — sections were
      floored at 4rem top+bottom, leaving big empty bands. */
   :root { --section-y: clamp(2.25rem, 7vw, 3.25rem); }
