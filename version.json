@@ -1,12 +1,12 @@
 {
-  "version": "v260611.06 5:00p",
-  "release": 6,
-  "sha": "d39b356",
-  "fullSha": "d39b3560428bd63ad3838aa7274db98b9eaa5107",
+  "version": "v260611.07 5:43p",
+  "release": 7,
+  "sha": "ae3a5b3",
+  "fullSha": "ae3a5b3c309d14c59af123325ffaf387075ba7a6",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-11T11:59:50-05:00",
-  "commits": [{"sha":"d39b356","message":"About bio + coaching copy: more human, tighter; cap bio photo on mobile","author":"Lauren Burandt"}]
+  "pushedAt": "2026-06-11T12:43:02-05:00",
+  "commits": [{"sha":"ae3a5b3","message":"Reduce dead space between page-hero and first section","author":"Lauren Burandt"}]
 }
