@@ -1,12 +1,12 @@
 {
-  "version": "v260611.07 5:43p",
-  "release": 7,
-  "sha": "ae3a5b3",
-  "fullSha": "ae3a5b3c309d14c59af123325ffaf387075ba7a6",
+  "version": "v260611.08 5:49p",
+  "release": 8,
+  "sha": "aada3a9",
+  "fullSha": "aada3a976c9057df9302339b990dd7cd01f47659",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-11T12:43:02-05:00",
-  "commits": [{"sha":"ae3a5b3","message":"Reduce dead space between page-hero and first section","author":"Lauren Burandt"}]
+  "pushedAt": "2026-06-11T12:49:03-05:00",
+  "commits": [{"sha":"aada3a9","message":"Remove em dashes from about bio + coaching copy","author":"Lauren Burandt"}]
 }
