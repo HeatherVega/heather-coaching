@@ -1958,7 +1958,7 @@ section.section:nth-of-type(even) {
   .who-card h3 { font-size: 1.2rem; }
 
   /* Tighten hero lede on small screens */
-  .hero .lede { font-size: 0.97rem; }
+  .hero .lede { font-size: 0.86rem; line-height: 1.5; }
   .lede { font-size: 1rem; }
 
   /* Blog index cards full width */
