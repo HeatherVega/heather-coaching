@@ -1930,8 +1930,13 @@ section.section:nth-of-type(even) {
   .hero { min-height: 92vh; }
   .hero-content { padding-bottom: calc(var(--gutter) * 2.25); }
 
-  /* Hide the long credentials line on mobile — too much to read */
-  .hero-title { display: none; }
+  /* Credentials line stays on mobile — just shrunk to fit */
+  .hero-title {
+    font-size: 0.56rem;
+    letter-spacing: 0.12em;
+    line-height: 1.65;
+    margin: 0.4rem 0 1.25rem;
+  }
 
   /* Tagline smaller so it fits on one or two lines */
   .hero-tagline { font-size: 0.62rem; letter-spacing: 0.2em; }
