@@ -1,12 +1,12 @@
 {
-  "version": "v260610.02 7:58p",
-  "release": 2,
-  "sha": "96b4093",
-  "fullSha": "96b4093a8b66658f0adc5a2f0d198f54bf382d84",
+  "version": "v260611.01 4:21p",
+  "release": 1,
+  "sha": "77289f3",
+  "fullSha": "77289f36418384c90776adb891650219911dbee4",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
-  "machine": "runnervm1li68",
-  "pushedAt": "2026-06-10T12:57:47-07:00",
-  "commits": [{"sha":"96b4093","message":"Mobile: tighten section spacing, fix broken testimonial markup","author":"Lauren Burandt"}]
+  "machine": "runnervm3jyl0",
+  "pushedAt": "2026-06-11T11:21:07-05:00",
+  "commits": [{"sha":"77289f3","message":"Elegant testimonial pull-quote + smaller mobile menu text","author":"Lauren Burandt"}]
 }
