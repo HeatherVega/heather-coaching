@@ -1,12 +1,12 @@
 {
-  "version": "v260611.01 4:21p",
-  "release": 1,
-  "sha": "77289f3",
-  "fullSha": "77289f36418384c90776adb891650219911dbee4",
+  "version": "v260611.02 4:26p",
+  "release": 2,
+  "sha": "3af477a",
+  "fullSha": "3af477ab4a039d7cc3ec4dc182f58d4fbc604f86",
   "actor": "laurenbur2",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm3jyl0",
-  "pushedAt": "2026-06-11T11:21:07-05:00",
-  "commits": [{"sha":"77289f3","message":"Elegant testimonial pull-quote + smaller mobile menu text","author":"Lauren Burandt"}]
+  "pushedAt": "2026-06-11T11:25:50-05:00",
+  "commits": [{"sha":"3af477a","message":"Mobile: keep hero credentials line, shrink instead of hiding","author":"Lauren Burandt"}]
 }
