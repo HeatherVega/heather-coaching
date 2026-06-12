@@ -1,12 +1,12 @@
 {
-  "version": "v260612.11 8:24p",
-  "release": 11,
-  "sha": "f720739",
-  "fullSha": "f720739ce95e9b110c059bb42d11d70f93260a02",
+  "version": "v260612.12 8:28p",
+  "release": 12,
+  "sha": "da69849",
+  "fullSha": "da698495de33a8f5b3671920a1f35fb813db6b1a",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-12T15:24:35-05:00",
-  "commits": [{"sha":"f720739","message":"Fix mobile hero crop to avoid alpaca section of image","author":"Heather McCan"}]
+  "pushedAt": "2026-06-12T15:28:40-05:00",
+  "commits": [{"sha":"da69849","message":"Replace hero background with clean forest image, no alpacas","author":"Heather McCan"}]
 }
