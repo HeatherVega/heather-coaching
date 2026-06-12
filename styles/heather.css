@@ -783,7 +783,7 @@ p { margin: 0 0 1em; }
   font-weight: 600;
   letter-spacing: 0.22em;
   text-transform: uppercase;
-  color: #ffd84d;
+  color: #f0c050;
   opacity: 1;
   margin: 0.75rem 0 1.5rem;
   line-height: 2;
@@ -796,7 +796,7 @@ p { margin: 0 0 1em; }
   font-weight: 500;
   letter-spacing: 0.42em;
   text-transform: uppercase;
-  color: #ffd84d;
+  color: #f0c050;
   margin: 0 0 1.5rem;
   display: inline-flex;
   align-items: center;
@@ -809,7 +809,7 @@ p { margin: 0 0 1em; }
   display: block;
   width: 28px;
   height: 1px;
-  background: linear-gradient(90deg, transparent, #ffd84d, transparent);
+  background: linear-gradient(90deg, transparent, #f0c050, transparent);
   opacity: 0.9;
 }
 
