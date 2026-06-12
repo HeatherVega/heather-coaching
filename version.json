@@ -1,12 +1,12 @@
 {
-  "version": "v260612.12 8:28p",
-  "release": 12,
-  "sha": "da69849",
-  "fullSha": "da698495de33a8f5b3671920a1f35fb813db6b1a",
+  "version": "v260612.13 11:17p",
+  "release": 13,
+  "sha": "7577b1a",
+  "fullSha": "7577b1a66dbc909f8cf9f292f42beac7fc7a2168",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-12T15:28:40-05:00",
-  "commits": [{"sha":"da69849","message":"Replace hero background with clean forest image, no alpacas","author":"Heather McCan"}]
+  "pushedAt": "2026-06-12T18:17:35-05:00",
+  "commits": [{"sha":"7577b1a","message":"Restore misty forest hero on desktop and mobile","author":"Heather McCan"}]
 }
