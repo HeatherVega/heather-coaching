@@ -1,12 +1,12 @@
 {
-  "version": "v260612.03 6:27p",
-  "release": 3,
-  "sha": "2d9e772",
-  "fullSha": "2d9e772fcb4cdfbdc47324d5e646d1cbfc530425",
+  "version": "v260612.04 6:32p",
+  "release": 4,
+  "sha": "2586c3d",
+  "fullSha": "2586c3dd8643b9c4086fb81d0d72a672b3e7551b",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-12T13:27:02-05:00",
-  "commits": [{"sha":"2d9e772","message":"Brighter luminous gold on hero credentials and tagline","author":"Heather McCan"}]
+  "pushedAt": "2026-06-12T13:32:32-05:00",
+  "commits": [{"sha":"2586c3d","message":"Much brighter gold on hero tagline and credentials","author":"Heather McCan"}]
 }
