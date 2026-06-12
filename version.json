@@ -1,12 +1,12 @@
 {
-  "version": "v260611.09 6:06p",
-  "release": 9,
-  "sha": "a7ca171",
-  "fullSha": "a7ca1712cbea35d96e51e339d00f5e2af3ec8f4d",
-  "actor": "laurenbur2",
+  "version": "v260612.01 5:54p",
+  "release": 1,
+  "sha": "60328d0",
+  "fullSha": "60328d0311b66f9941951ed400cb59aa58465f29",
+  "actor": "HeatherVega",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-11T13:06:19-05:00",
-  "commits": [{"sha":"a7ca171","message":"Docs: point references to Heather's account ahead of transfer","author":"Lauren Burandt"}]
+  "pushedAt": "2026-06-12T12:54:14-05:00",
+  "commits": [{"sha":"60328d0","message":"Create CNAME","author":"HeatherVega"}]
 }
