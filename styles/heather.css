@@ -1956,7 +1956,7 @@ section.section:nth-of-type(even) {
 
   .hero { min-height: 92vh; }
   .hero-content { padding-bottom: calc(var(--gutter) * 2.25); }
-  .hero-photo-placeholder { background-position: top center; }
+  .hero-photo-placeholder { background-position: center 65%; }
 
 
   /* Credentials line stays on mobile — readable but compact */
