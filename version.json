@@ -1,12 +1,12 @@
 {
-  "version": "v260612.08 6:58p",
-  "release": 8,
-  "sha": "e9cbbb3",
-  "fullSha": "e9cbbb3e5f75f57e5ab3eae59d304bc1b7c8cb2a",
+  "version": "v260612.09 7:42p",
+  "release": 9,
+  "sha": "ab00de3",
+  "fullSha": "ab00de3eccfec7bfad3fb27a9905498a8816d6a6",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-12T13:57:52-05:00",
-  "commits": [{"sha":"e9cbbb3","message":"Add Maria testimonial — two-card grid layout","author":"Heather McCan"}]
+  "pushedAt": "2026-06-12T14:42:28-05:00",
+  "commits": [{"sha":"ab00de3","message":"Add Austin TX to Maria testimonial","author":"Heather McCan"}]
 }
