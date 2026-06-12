@@ -1,12 +1,12 @@
 {
-  "version": "v260612.02 6:26p",
-  "release": 2,
-  "sha": "abae76e",
-  "fullSha": "abae76ea0344cf521a3473eb926b6c73b2cd301e",
+  "version": "v260612.03 6:27p",
+  "release": 3,
+  "sha": "2d9e772",
+  "fullSha": "2d9e772fcb4cdfbdc47324d5e646d1cbfc530425",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-12T13:26:18-05:00",
-  "commits": [{"sha":"abae76e","message":"Make hero credentials title larger and more readable","author":"Heather McCan"}]
+  "pushedAt": "2026-06-12T13:27:02-05:00",
+  "commits": [{"sha":"2d9e772","message":"Brighter luminous gold on hero credentials and tagline","author":"Heather McCan"}]
 }
