@@ -1,12 +1,12 @@
 {
-  "version": "v260612.01 5:54p",
-  "release": 1,
-  "sha": "60328d0",
-  "fullSha": "60328d0311b66f9941951ed400cb59aa58465f29",
-  "actor": "HeatherVega",
+  "version": "v260612.02 6:26p",
+  "release": 2,
+  "sha": "abae76e",
+  "fullSha": "abae76ea0344cf521a3473eb926b6c73b2cd301e",
+  "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-12T12:54:14-05:00",
-  "commits": [{"sha":"60328d0","message":"Create CNAME","author":"HeatherVega"}]
+  "pushedAt": "2026-06-12T13:26:18-05:00",
+  "commits": [{"sha":"abae76e","message":"Make hero credentials title larger and more readable","author":"Heather McCan"}]
 }
