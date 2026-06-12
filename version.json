@@ -1,12 +1,12 @@
 {
-  "version": "v260612.07 6:49p",
-  "release": 7,
-  "sha": "3e1991d",
-  "fullSha": "3e1991da88f62670bf2f335c425c251ebd72e7c3",
+  "version": "v260612.08 6:58p",
+  "release": 8,
+  "sha": "e9cbbb3",
+  "fullSha": "e9cbbb3e5f75f57e5ab3eae59d304bc1b7c8cb2a",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-12T13:49:36-05:00",
-  "commits": [{"sha":"3e1991d","message":"Fix swapped Calendly links — discovery call and 60min corrected","author":"Heather McCan"}]
+  "pushedAt": "2026-06-12T13:57:52-05:00",
+  "commits": [{"sha":"e9cbbb3","message":"Add Maria testimonial — two-card grid layout","author":"Heather McCan"}]
 }
