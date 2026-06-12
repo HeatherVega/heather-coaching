@@ -1,12 +1,12 @@
 {
-  "version": "v260612.04 6:32p",
-  "release": 4,
-  "sha": "2586c3d",
-  "fullSha": "2586c3dd8643b9c4086fb81d0d72a672b3e7551b",
+  "version": "v260612.05 6:35p",
+  "release": 5,
+  "sha": "0f2b79f",
+  "fullSha": "0f2b79f3b2f1e2f84d075afdda99e1b8c4d5c688",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-12T13:32:32-05:00",
-  "commits": [{"sha":"2586c3d","message":"Much brighter gold on hero tagline and credentials","author":"Heather McCan"}]
+  "pushedAt": "2026-06-12T13:34:51-05:00",
+  "commits": [{"sha":"0f2b79f","message":"Larger hero credentials and tagline on mobile","author":"Heather McCan"}]
 }
