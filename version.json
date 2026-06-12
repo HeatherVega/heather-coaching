@@ -1,12 +1,12 @@
 {
-  "version": "v260612.10 8:16p",
-  "release": 10,
-  "sha": "6772e91",
-  "fullSha": "6772e9132a325df03c6c4b1a301e23efb7f35b01",
+  "version": "v260612.11 8:24p",
+  "release": 11,
+  "sha": "f720739",
+  "fullSha": "f720739ce95e9b110c059bb42d11d70f93260a02",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-12T15:16:20-05:00",
-  "commits": [{"sha":"6772e91","message":"Replace hero background with Heather professional photo","author":"Heather McCan"}]
+  "pushedAt": "2026-06-12T15:24:35-05:00",
+  "commits": [{"sha":"f720739","message":"Fix mobile hero crop to avoid alpaca section of image","author":"Heather McCan"}]
 }
