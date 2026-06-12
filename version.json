@@ -1,12 +1,12 @@
 {
-  "version": "v260612.13 11:17p",
-  "release": 13,
-  "sha": "7577b1a",
-  "fullSha": "7577b1a66dbc909f8cf9f292f42beac7fc7a2168",
+  "version": "v260612.14 11:24p",
+  "release": 14,
+  "sha": "b7066d3",
+  "fullSha": "b7066d35fb817d6b66a8aa70007a6a7e825f37e8",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-12T18:17:35-05:00",
-  "commits": [{"sha":"7577b1a","message":"Restore misty forest hero on desktop and mobile","author":"Heather McCan"}]
+  "pushedAt": "2026-06-12T18:23:50-05:00",
+  "commits": [{"sha":"b7066d3","message":"Fix mobile hero to show forest not mountain top","author":"Heather McCan"}]
 }
