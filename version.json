@@ -1,12 +1,12 @@
 {
-  "version": "v260612.14 11:24p",
-  "release": 14,
-  "sha": "b7066d3",
-  "fullSha": "b7066d35fb817d6b66a8aa70007a6a7e825f37e8",
+  "version": "v260613.01 2:31a",
+  "release": 1,
+  "sha": "114ab5c",
+  "fullSha": "114ab5c7a8a88ac198d8024b68d8d1a4d9a0b1fd",
   "actor": "heathermccan911-cmd",
   "source": "cloudflare-pages-deploy",
   "model": "ci",
   "machine": "runnervm1li68",
-  "pushedAt": "2026-06-12T18:23:50-05:00",
-  "commits": [{"sha":"b7066d3","message":"Fix mobile hero to show forest not mountain top","author":"Heather McCan"}]
+  "pushedAt": "2026-06-12T21:31:11-05:00",
+  "commits": [{"sha":"114ab5c","message":"Replace alpaca og-image with Heather professional photo for link previews","author":"Heather McCan"}]
 }
